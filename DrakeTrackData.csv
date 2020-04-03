@@ -1,0 +1,147 @@
+,artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,uris
+0,Drake,Dreams Money Can Buy,0.423,0.587,6,-6.635,1,0.529,0.765,0.0,0.114,0.33,180.331,253803,spotify:track:1qyFlfPREPbRcS2BNszdYI
+1,Drake,The Motion,0.631,0.788,4,-7.142,0,0.102,0.371,0.000317,0.108,0.544,157.769,240957,spotify:track:0Tacxc5lDJ8LwiO1pWNSl8
+2,Drake,How Bout Now,0.789,0.404,1,-8.364,1,0.23,0.205,0.0,0.219,0.472,122.062,235566,spotify:track:4n4BflhWjCHIxrI4v7Xt9s
+3,Drake,Trust Issues,0.421,0.539,11,-5.456,0,0.274,0.779,0.0,0.111,0.523,89.177,281519,spotify:track:4Wjhj0WjkyECccfHVIgaTq
+4,Drake,Days in The East,0.733,0.361,1,-11.129,1,0.135,0.348,0.000285,0.0942,0.0361,94.902,353698,spotify:track:4czcw3NVLY0of5hTD7OufN
+5,Drake,Draft Day,0.673,0.81,8,-3.793,1,0.36,0.0322,0.0,0.133,0.564,166.084,266325,spotify:track:3W3FVHEDetkiRkkGKDmdir
+6,Drake,4pm in Calabasas,0.743,0.66,4,-4.802,0,0.418,0.115,0.0,0.101,0.549,192.031,240218,spotify:track:6C9SwoZ5OrxcvkntgA5t8s
+7,Drake,5 Am in Toronto,0.555,0.88,11,-4.325,0,0.265,0.0678,0.0,0.0723,0.391,87.195,205264,spotify:track:0FnxK9FEAQyPJ284QcieNb
+8,Drake,I Get Lonely,0.477,0.501,11,-9.178,0,0.0398,0.706,5.61e-06,0.0953,0.689,81.376,253562,spotify:track:3sMC6vfTTSa0mMAPTwzDVD
+9,Drake,My Side,0.549,0.495,6,-5.661,0,0.133,0.603,7.26e-06,0.0979,0.385,81.012,294651,spotify:track:4alHkxxwAhvoGg3dJCATKV
+10,Drake,Jodeci Freestyle (feat. J. Cole),0.498,0.844,2,-2.834,1,0.268,0.0111,0.0,0.102,0.282,88.435,254022,spotify:track:2xUHiyGeGrWmmfv7NbDTWC
+11,Drake,Club Paradise,0.338,0.729,6,-6.419,0,0.102,0.758,3.24e-05,0.18,0.543,184.174,283816,spotify:track:6MR5IBSNfDmiwnrlQpVw4w
+12,Drake,Free Spirit (feat. Rick Ross),0.508,0.748,1,-4.997,1,0.33,0.281,0.0,0.168,0.225,100.414,252884,spotify:track:18t8ypY0HYaQuGBxg2KdT2
+13,Drake,Heat Of The Moment,0.641,0.454,5,-8.344,0,0.133,0.179,0.000116,0.065,0.302,78.036,343455,spotify:track:27Tqjd2nMW2mIp6Yk1ovwY
+14,Drake,Girls Love Beyoncé (feat. James Fauntleroy),0.619,0.489,11,-11.25,0,0.46,0.782,0.0,0.106,0.328,126.046,225012,spotify:track:56NDFbD0tCUawnqeU2wcvv
+15,Drake,Paris Morton Music,0.505,0.494,10,-8.635,0,0.315,0.414,7.98e-05,0.105,0.141,171.978,251240,spotify:track:73IE87H0g2MBmdn41lkVto
+16,Drake,Can I,0.643,0.178,4,-8.56,0,0.0588,0.484,0.0108,0.122,0.0674,85.042,189289,spotify:track:3e0ZGE7Gp034iLknjQk4QW
+17,Drake,Lust For Life,0.462,0.422,6,-10.381,1,0.175,0.939,0.0327,0.108,0.0853,87.364,176179,spotify:track:1v24T2ug4TlssYZvI3aL4O
+18,Drake,Houstatlantavegas,0.683,0.695,1,-6.798,0,0.0574,0.393,0.00124,0.124,0.406,135.337,290791,spotify:track:3XLSlQLJf3Ut0zvMUxnF1h
+19,Drake,Successful (feat. Trey Songz & Lil Wayne),0.562,0.544,8,-5.065,1,0.369,0.536,0.0,0.17,0.231,159.517,375050,spotify:track:6NwhtCYkfwWlcR62Ac4E7y
+20,Drake,Let’s Call It Off (feat. Peter Bjorn and John),0.79,0.731,9,-4.607,0,0.0327,0.00427,0.29,0.157,0.938,127.403,234176,spotify:track:4FDSPGncHRpr6yB8DD4CtI
+21,Drake,November 18th,0.749,0.476,11,-11.147,0,0.507,0.579,0.0,0.1,0.534,71.937,188189,spotify:track:0JaVdpmiex2EP7bBzyKVTa
+22,Drake,Ignant Shit (feat. Lil Wayne),0.591,0.846,7,-3.687,1,0.276,0.186,0.0,0.463,0.121,94.795,302492,spotify:track:2hcohLIysMxofYziluXCoX
+23,Drake,A Night Off (feat. Lloyd),0.611,0.508,11,-5.573,0,0.0741,0.374,3.87e-06,0.168,0.368,103.612,193963,spotify:track:3lkkkYc1wBj5l3FVlpqvP6
+24,Drake,Say Whats Real,0.462,0.773,8,-5.375,1,0.288,0.632,0.0,0.212,0.455,86.157,230717,spotify:track:7mPoCVGP752A5DtHf1SKkM
+25,Drake,Little Bit (feat. Lykke Li),0.758,0.888,11,-4.899,0,0.0374,0.0999,0.0336,0.661,0.771,120.392,230484,spotify:track:524wvipGqxPKYWxkjf9y46
+26,Drake,Best I Ever Had,0.395,0.922,1,-2.176,1,0.375,0.19,0.0,0.134,0.558,162.361,257690,spotify:track:3QLjDkgLh9AOEHlhQtDuhs
+27,Drake,Unstoppable (feat. Santigold & Lil Wayne),0.774,0.912,2,-2.787,0,0.347,0.165,0.0,0.745,0.821,150.083,209957,spotify:track:2TWSilrWcTrgVKcP8kfEfg
+28,Drake,Uptown (feat. Bun B & Lil Wayne),0.416,0.824,1,-3.075,1,0.343,0.00391,0.0,0.104,0.417,85.433,382262,spotify:track:0q7LGcVSpsIoSbjChtZ8lI
+29,Drake,Sooner Than Later,0.616,0.501,5,-5.722,0,0.24,0.178,1.2e-05,0.105,0.506,94.554,262047,spotify:track:43iKgGbmfqPLh3mxUlospI
+30,Drake,Brias Interlude (feat. Omarion),0.49,0.507,2,-6.205,0,0.0849,0.209,0.00104,0.119,0.237,147.037,139575,spotify:track:4i3GraNMzBKze1WsVl38DS
+31,Drake,The Calm,0.471,0.784,11,-8.25,0,0.883,0.819,1.13e-05,0.107,0.258,160.833,243724,spotify:track:6MlGqWzDiLkZ0vmAEsisEk
+32,Drake,Outro (feat. Chilly Gonzales),0.397,0.0906,5,-21.655,1,0.054,0.988,0.856,0.344,0.136,185.167,174398,spotify:track:6hHKFReuQR9VQp39ev43wY
+33,Drake,Brand New,0.399,0.491,6,-8.992,1,0.0714,0.631,0.0,0.171,0.356,94.542,213492,spotify:track:4XTXamS1g4g93jPxyuFJJ6
+34,Drake,Congratulations,0.333,0.859,6,-2.286,1,0.148,0.0185,0.0,0.22,0.125,86.882,332530,spotify:track:3SnXwQUrvSacFziUYXTNKY
+35,Drake,Survival,0.607,0.596,9,-9.09,0,0.358,0.133,0.0,0.123,0.149,77.324,136187,spotify:track:2yg9UN4eo5eMVJ7OB4RWj3
+36,Drake,Nonstop,0.912,0.412,7,-8.074,1,0.124,0.0164,0.013,0.104,0.422,154.983,238614,spotify:track:0TlLq3lA83rQOYtrqBqSct
+37,Drake,Elevate,0.758,0.474,1,-8.72,1,0.146,0.015,0.0,0.116,0.0541,76.062,184960,spotify:track:3szf2z1Cy1QMrtHrbn8rz9
+38,Drake,Emotionless,0.413,0.677,1,-5.12,1,0.255,0.0249,0.0,0.0793,0.0845,172.501,302173,spotify:track:5Psnhdkyanjpgc2P8A5TSM
+39,Drake,Gods Plan,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198973,spotify:track:6DCZcSspjsKoFjzjrWoCdn
+40,Drake,Im Upset,0.899,0.586,11,-7.866,0,0.344,0.279,0.0,0.0836,0.492,150.001,214467,spotify:track:3qN5qMTKyEEmiTZD38BNTT
+41,Drake,8 Out Of 10,0.529,0.69,2,-7.87,1,0.74,0.161,0.0,0.498,0.311,170.54,195720,spotify:track:0zqy3ss4CwD6u4QPksS0nI
+42,Drake,Mob Ties,0.755,0.575,4,-8.393,0,0.0678,0.0456,0.00124,0.276,0.49,85.987,205147,spotify:track:7rC5Pl8rQSX4myONQHYPBK
+43,Drake,Can’t Take A Joke,0.761,0.598,10,-7.249,0,0.182,0.128,0.0,0.0839,0.447,173.897,163974,spotify:track:1dUHF4RyMmMTveJ0Rby6Xm
+44,Drake,Sandra’s Rose,0.487,0.849,1,-5.432,1,0.246,0.0481,0.0,0.143,0.52,152.093,216333,spotify:track:6cblRiEGDRNZgowcm951R3
+45,Drake,Talk Up (feat. Jay-Z),0.758,0.49,11,-9.877,1,0.139,0.00359,6.61e-06,0.292,0.335,140.116,223240,spotify:track:4ksuI04WMvUnJbHQjgs3L5
+46,Drake,Is There More,0.698,0.547,1,-7.607,1,0.315,0.727,0.0,0.159,0.548,83.801,226907,spotify:track:1Tnw0ItH1Macok8gblnPPd
+47,Drake,Peak,0.686,0.215,9,-13.54,0,0.0387,0.85,0.000123,0.106,0.273,91.998,206027,spotify:track:11L064movtyopGdLiX4sVg
+48,Drake,Summer Games,0.775,0.482,1,-11.269,1,0.0357,0.477,0.0456,0.11,0.134,136.016,247893,spotify:track:4HG1YiGBseVKzjyKcmAJen
+49,Drake,Jaded,0.766,0.271,0,-5.697,1,0.0412,0.037,0.0,0.175,0.0371,116.02,262453,spotify:track:4c2xt1trwYZpMqPWY35Xi9
+50,Drake,Nice For What,0.586,0.909,8,-6.474,1,0.0705,0.0891,0.000109,0.119,0.757,93.394,210747,spotify:track:3CA9pLiwRIGtUBiMjbZmRw
+51,Drake,Finesse,0.807,0.32,0,-8.152,0,0.0582,0.133,0.000328,0.101,0.298,94.99,182080,spotify:track:2WP8G2pdddDmnh1xbfKBOI
+52,Drake,Ratchet Happy Birthday,0.657,0.571,2,-12.519,1,0.14,0.106,0.00121,0.0735,0.626,167.961,207307,spotify:track:4SUwJA3eUVNHExxMPEUhQe
+53,Drake,That’s How You Feel,0.85,0.473,10,-5.747,0,0.209,0.117,0.0105,0.108,0.38,85.454,157605,spotify:track:41a7dZcq30Ss5kPMayWRV0
+54,Drake,Blue Tint,0.888,0.372,7,-10.254,0,0.358,0.013,0.0,0.184,0.123,133.998,162800,spotify:track:4n1bdaKwynQndm47x5HqWX
+55,Drake,In My Feelings,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,217925,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ
+56,Drake,Don’t Matter To Me (with Michael Jackson),0.826,0.318,10,-12.391,1,0.0574,0.493,0.0131,0.11,0.138,103.002,245787,spotify:track:6G8kHiVZ1jW7vHMPVRNZU0
+57,Drake,After Dark (feat. Static Major & Ty Dolla $ign),0.686,0.428,2,-13.072,1,0.192,0.0414,0.0,0.138,0.329,141.95,289560,spotify:track:3mvYQKm8h6M5K5h0nVPY9S
+58,Drake,Final Fantasy,0.5,0.448,0,-10.977,1,0.442,0.422,8.03e-06,0.115,0.104,144.204,219960,spotify:track:44Du2IM1bGY7dicmLfXbUs
+59,Drake,March 14,0.558,0.415,10,-7.355,0,0.358,0.406,0.0,0.36,0.317,127.096,309560,spotify:track:09lmraDvzBT3pUQ2rUtJzK
+60,Drake,Free Smoke,0.736,0.491,10,-6.892,0,0.439,0.0681,0.0,0.571,0.203,141.979,218674,spotify:track:05KOgYg8PGeJyyWBPi5ja8
+61,Drake,No Long Talk,0.913,0.608,10,-6.839,0,0.234,0.0671,0.0,0.533,0.578,97.063,149569,spotify:track:6CfrYuD3YRDYdYvH9jNtXY
+62,Drake,Passionfruit,0.809,0.463,11,-11.377,1,0.0396,0.256,0.085,0.109,0.364,111.98,298941,spotify:track:5mCPDVBb16L4XQwDdbRUpz
+63,Drake,Jorja Interlude,0.735,0.373,11,-10.478,1,0.104,0.762,0.00202,0.288,0.237,123.081,107673,spotify:track:13e6f8t7RKXuxZ0JdaaJRG
+64,Drake,Get It Together,0.781,0.721,5,-9.133,0,0.0514,0.0945,0.391,0.104,0.849,123.011,250337,spotify:track:7y6c07pgjZvtHI9kuMVqk1
+65,Drake,Madiba Riddim,0.839,0.521,7,-10.45,1,0.166,0.245,0.00545,0.607,0.33,105.992,205163,spotify:track:76gUmNLXGQVOsGhfcshkFP
+66,Drake,Blem,0.726,0.535,7,-7.804,0,0.0476,0.0533,1.38e-05,0.0984,0.375,98.067,216558,spotify:track:2XlHu0HcujBCkWMdIAvrqt
+67,Drake,4422,0.61,0.229,11,-12.36,0,0.0333,0.558,0.0413,0.113,0.19,111.887,186293,spotify:track:2fkeWbM6iqTw7oGHTYm2lw
+68,Drake,Gyalchester,0.877,0.391,1,-8.196,1,0.063,0.0317,0.000502,0.0945,0.122,131.018,189230,spotify:track:6UjfByV1lDLW0SOVQA4NAi
+69,Drake,Skepta Interlude,0.745,0.822,7,-6.354,1,0.252,0.0103,4.2e-06,0.155,0.415,86.733,143214,spotify:track:2dfqS3MRtbLZSZA1IL8xY5
+70,Drake,Portland,0.925,0.443,1,-8.216,1,0.264,0.0172,0.0,0.276,0.35,136.078,236615,spotify:track:2bjwRfXMk4uRgOD9IBYl9h
+71,Drake,Sacrifices,0.903,0.439,8,-11.813,1,0.397,0.0407,0.0,0.138,0.532,139.112,307593,spotify:track:0xl1w2q4VLojeXp4JfazPL
+72,Drake,Nothings Into Somethings,0.766,0.234,11,-7.544,0,0.159,0.332,0.00156,0.358,0.256,96.882,153725,spotify:track:6MbH1QiphMCPTqVEVC7UYi
+73,Drake,Teenage Fever,0.766,0.283,8,-10.33,0,0.0846,0.111,0.0172,0.115,0.144,97.04,219692,spotify:track:6n3HGiq4v35D6eFOSwqYuo
+74,Drake,KMT,0.875,0.6,1,-6.818,1,0.0435,0.0189,0.0143,0.132,0.0906,119.987,162638,spotify:track:2jTujnt0y344ai1rNOywgr
+75,Drake,Lose You,0.526,0.583,4,-9.172,1,0.376,0.699,0.0,0.372,0.378,89.835,305374,spotify:track:2Na0z2gfN67Rzf0vp74Wi3
+76,Drake,Cant Have Everything,0.856,0.572,1,-8.429,1,0.373,0.0136,1.55e-06,0.121,0.454,82.445,228438,spotify:track:5f5r2N4Lp9WoULWPH9zp2W
+77,Drake,Glow,0.688,0.384,9,-8.824,0,0.375,0.2,0.0,0.708,0.432,162.097,206120,spotify:track:28irpKCCK9nn9DZSik2zEx
+78,Drake,Since Way Back,0.468,0.266,0,-11.121,1,0.13,0.348,9.55e-06,0.209,0.222,153.292,368036,spotify:track:5JUu0unA8VwhTZ9LkMWUVI
+79,Drake,Fake Love,0.928,0.481,9,-9.35,0,0.287,0.105,0.0,0.176,0.613,134.007,210937,spotify:track:343YBumqHu19cGoGARUTsd
+80,Drake,Ice Melts,0.813,0.551,6,-7.605,0,0.353,0.08,0.0,0.386,0.598,124.957,250770,spotify:track:7bJ4mu7MHa3rHiNyKjOoSl
+81,Drake,Do Not Disturb,0.618,0.693,7,-5.943,0,0.45,0.246,0.0,0.112,0.454,170.982,283551,spotify:track:2KvHC9z14GSl4YpkNMX384
+82,Drake,Keep The Family Close,0.395,0.567,9,-7.687,0,0.0529,0.148,0.0,0.381,0.186,133.403,328907,spotify:track:0AAyo5bMIVgVxv9DF6XV2B
+83,Drake,9,0.689,0.712,10,-7.184,1,0.0451,0.000803,0.000601,0.237,0.0379,100.004,255787,spotify:track:4uCAKqQQYJaIvyzq4sZkaO
+84,Drake,U With Me?,0.429,0.43,2,-11.373,1,0.165,0.337,1.18e-05,0.138,0.125,174.984,297373,spotify:track:4MSjMv3kpbLEeyGfIh52qH
+85,Drake,Feel No Ways,0.588,0.674,7,-7.083,1,0.171,0.0319,7.55e-06,0.122,0.198,193.893,240653,spotify:track:12C1XYFQGZYXRYJNbsgDc7
+86,Drake,Hype,0.787,0.635,4,-8.282,0,0.153,0.0255,0.0,0.356,0.238,130.014,209413,spotify:track:07GilNHSfS5oicUgHgU7VG
+87,Drake,Weston Road Flows,0.623,0.74,1,-6.945,1,0.307,0.0635,0.0,0.366,0.351,82.874,253533,spotify:track:0P7HlSwSY8mJCWIk4yunb0
+88,Drake,Redemption,0.694,0.314,0,-7.82,1,0.117,0.612,2.04e-06,0.117,0.338,119.906,333947,spotify:track:6qGgrhiZ20Qrir3MNGUJq4
+89,Drake,With You,0.878,0.406,1,-9.961,1,0.249,0.136,0.000231,0.112,0.785,128.015,195053,spotify:track:5PMNu7kMZ4msbxiKnDTOt0
+90,Drake,Faithful,0.537,0.449,1,-10.494,1,0.102,0.112,1.51e-05,0.285,0.169,100.007,290133,spotify:track:4dWVEAVhqNUjvsBHUo477f
+91,Drake,Still Here,0.833,0.431,0,-9.604,1,0.194,0.0267,0.0,0.633,0.224,133.938,189853,spotify:track:4YJmZfvlheSziXem8HBWrj
+92,Drake,Controlla,0.611,0.468,10,-11.084,0,0.179,0.0781,0.0,0.101,0.349,92.092,245227,spotify:track:4CpKEkdGbOJV51cSvx7SoG
+93,Drake,One Dance,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.00188,0.329,0.37,103.967,173987,spotify:track:12VWzyPDBCc8fqeWCAfNwR
+94,Drake,Grammys,0.676,0.432,1,-9.51,1,0.502,0.00163,3.93e-06,0.0799,0.12,145.869,220427,spotify:track:2JfeUjJvP1lJkCSne9g0de
+95,Drake,Childs Play,0.745,0.473,10,-11.243,0,0.0955,0.017,1.12e-05,0.197,0.296,80.006,241400,spotify:track:0k9RIzZtAo4DTQu0ZM6lNZ
+96,Drake,Pop Style,0.713,0.462,7,-10.027,1,0.123,0.192,2.16e-06,0.105,0.0595,133.054,212947,spotify:track:334S9SWZMjyRDN0wrHw7wk
+97,Drake,Too Good,0.793,0.653,7,-7.839,1,0.103,0.0484,4.91e-05,0.1,0.393,117.993,263373,spotify:track:7fJtPlEZKxu6gvkfBFc5tW
+98,Drake,Summers Over Interlude,0.698,0.255,4,-8.647,0,0.0303,0.405,0.00242,0.0985,0.243,132.036,106333,spotify:track:04CpzA2BdOLEz7EMp5uwTU
+99,Drake,Fire & Desire,0.722,0.252,1,-14.411,0,0.0762,0.0671,0.0,0.0852,0.276,79.923,238120,spotify:track:4bEGp4AapA0B3Q5PpnSq3K
+100,Drake,Views,0.426,0.852,0,-5.896,1,0.318,0.0657,0.0,0.262,0.11,78.855,311960,spotify:track:6oeCLDX1ML2tPOPT1JuyaJ
+101,Drake,Hotline Bling,0.891,0.625,2,-7.861,1,0.0558,0.00261,0.000176,0.0504,0.548,134.967,267067,spotify:track:1OAYKfE0YdrN7C1yLWaLJo
+102,Drake,Digital Dash,0.881,0.566,2,-7.562,1,0.136,0.00378,6.83e-06,0.204,0.232,140.04,231231,spotify:track:0v0QJqLvo3tnqwYLdLqdza
+103,Drake,Big Rings,0.807,0.666,8,-6.188,0,0.263,0.00295,0.0,0.227,0.274,131.994,217707,spotify:track:3dnM2j3WBCn2biJgiuxhnB
+104,Drake,Live From The Gutter,0.828,0.482,7,-8.469,1,0.431,0.0429,7.8e-06,0.0807,0.281,165.946,211643,spotify:track:5XdFLE07JRgMk5LLSjjmAT
+105,Drake,Diamonds Dancing,0.504,0.356,1,-10.84,1,0.0445,0.12,6.03e-05,0.107,0.169,136.028,314632,spotify:track:4HP4mKLUCZcoHlZAWvdhRN
+106,Drake,Scholarships,0.556,0.406,0,-9.409,0,0.381,0.0828,4.29e-06,0.1,0.256,109.035,209288,spotify:track:6DGV9o1qFcx18O6uRIeCBM
+107,Drake,Plastic Bag,0.844,0.47,1,-6.048,1,0.3,0.0079,2.82e-06,0.141,0.395,170.91,202085,spotify:track:3MTZYvIcZXwmc8tFrAr9bA
+108,Drake,Im The Plug,0.829,0.554,0,-9.223,1,0.305,0.000285,0.00225,0.12,0.203,160.026,180000,spotify:track:67KJIWrUpIG3ONOpZpvVbR
+109,Drake,Change Locations,0.813,0.328,0,-10.069,1,0.391,0.0201,4.96e-06,0.119,0.191,137.999,220862,spotify:track:1CEPBDQk2rU9bIBwcsXkOM
+110,Drake,Jumpman,0.859,0.56,1,-7.249,1,0.201,0.0529,0.0,0.114,0.625,142.04,205879,spotify:track:6ApJN7sbsgAKwO29JbSLiK
+111,Drake,Jersey,0.766,0.531,0,-10.899,0,0.272,0.528,0.000665,0.11,0.29,146.089,188703,spotify:track:6Dw7JdhiiMjx2gWrwfeFYL
+112,Drake,30 for 30 Freestyle,0.622,0.599,4,-9.207,0,0.458,0.686,0.0,0.145,0.275,92.833,253935,spotify:track:1svrFSGhPdKaFFinZSoltt
+113,Drake,Legend,0.712,0.563,1,-7.573,1,0.071,0.0269,0.0,0.0776,0.299,100.093,241853,spotify:track:1ID1QFSNNxi0hiZCNcwjUC
+114,Drake,Energy,0.748,0.571,11,-7.916,1,0.478,0.38,0.0,0.534,0.553,172.105,181933,spotify:track:79XrkTOfV1AqySNjVlygpW
+115,Drake,10 Bands,0.825,0.757,11,-3.687,0,0.384,0.262,1.72e-06,0.0762,0.89,172.938,177733,spotify:track:12d5QFwzh60IIHlsSnAvps
+116,Drake,Know Yourself,0.733,0.412,11,-8.687,0,0.225,0.196,0.0,0.342,0.179,114.413,275840,spotify:track:5InOp6q2vvx0fShv3bzFLZ
+117,Drake,No Tellin,0.823,0.467,0,-10.394,0,0.301,0.543,0.0,0.135,0.618,95.024,310933,spotify:track:2durxb17bXcmQJHSt8JAdO
+118,Drake,Madonna,0.905,0.506,2,-8.598,1,0.0588,0.0149,3.56e-05,0.371,0.122,110.017,177840,spotify:track:4v7SAP4KD96BFLWiCd1vF0
+119,Drake,6 God,0.859,0.623,2,-8.596,1,0.106,0.0248,0.0,0.125,0.482,105.45,180667,spotify:track:3a8tAZFJxlmBwOtrf5L1oC
+120,Drake,Star67,0.521,0.392,3,-7.88,1,0.17,0.747,8.81e-06,0.198,0.166,91.938,294973,spotify:track:2mmUoyPxzbxehpfm1TpTRK
+121,Drake,Preach,0.605,0.511,11,-8.094,0,0.475,0.165,8.95e-05,0.104,0.379,65.256,236973,spotify:track:1OHoBC4icbuNhpSxP400sv
+122,Drake,Wednesday Night Interlude,0.321,0.466,9,-8.163,0,0.0512,0.729,7.63e-06,0.215,0.194,135.089,212280,spotify:track:6oLHyWvmk6bKrA91EIYZBp
+123,Drake,Used To,0.926,0.427,10,-7.584,0,0.107,0.0703,0.00033,0.0818,0.305,96.023,268480,spotify:track:63p3Slj0shAFP0Q7dQetj5
+124,Drake,6 Man,0.812,0.535,4,-9.306,1,0.449,0.217,0.0,0.114,0.321,78.974,167653,spotify:track:4kdfjhj9xNkYU0R8xlDy8k
+125,Drake,Now & Forever,0.555,0.481,10,-7.419,0,0.0322,0.124,0.0,0.101,0.0981,107.806,281320,spotify:track:4zLOwx1yRJXWkHKt1XzF1p
+126,Drake,Company,0.651,0.55,7,-8.216,1,0.0496,0.0403,0.0,0.165,0.119,107.571,252640,spotify:track:6ImxYXeLDQPIv4qo7bMhSk
+127,Drake,You & The 6,0.574,0.476,3,-7.444,1,0.282,0.166,0.0,0.129,0.223,154.531,264907,spotify:track:2YaDRtIlQiZ5WDDB2YuEOC
+128,Drake,Jungle,0.69,0.235,7,-8.651,1,0.0541,0.618,0.000144,0.107,0.378,99.906,320400,spotify:track:7JXZq0JgG2zTrSOAgY8VMC
+129,Drake,6PM In New York,0.554,0.849,5,-4.154,1,0.25,0.107,0.0,0.155,0.386,128.428,283307,spotify:track:5mZJwWdxAOR4xUvSGZvvMU
+130,Drake,Tuscan Leather,0.432,0.681,6,-5.4,1,0.437,0.114,0.0,0.236,0.296,77.793,366400,spotify:track:69gz9onZQNVw55cMQsaYii
+131,Drake,Furthest Thing,0.485,0.78,9,-5.261,0,0.142,0.149,0.0,0.0568,0.267,136.972,267373,spotify:track:6s64FyS9n0XYbGMLH3LOWU
+132,Drake,Started From the Bottom,0.794,0.523,8,-7.829,1,0.161,0.0331,0.0,0.156,0.56,86.307,174120,spotify:track:3dgQqOiQ9fCKVhNOedd2lf
+133,Drake,Wu-Tang Forever,0.855,0.433,1,-8.447,0,0.15,0.0414,0.0,0.1,0.394,99.975,217600,spotify:track:1HnhCD1u0c4dHSMazmWGyM
+134,Drake,Own It,0.652,0.345,8,-11.319,0,0.119,0.0437,3.59e-05,0.297,0.304,103.281,252053,spotify:track:3EJ9ZuqkL1kwgouugqsLu8
+135,Drake,Worst Behavior,0.777,0.778,9,-6.349,1,0.136,0.156,1.08e-06,0.196,0.437,109.925,270200,spotify:track:3X37NtwadSS0RM20dh2IgP
+136,Drake,From Time,0.737,0.494,1,-9.723,0,0.416,0.629,0.0,0.126,0.44,94.485,322160,spotify:track:2WC4sK0ryyysQhtDok9Ytr
+137,Drake,Hold On Were Going Home,0.773,0.414,6,-7.436,0,0.0961,0.00411,3.37e-05,0.0733,0.289,99.993,227880,spotify:track:6jdOi5U5LBzQrc4c1VT983
+138,Drake,Connect,0.685,0.489,6,-9.472,0,0.152,0.411,0.0,0.132,0.461,75.018,296400,spotify:track:1Sj81sMg37Hd4omn7Ow2qR
+139,Drake,The Language,0.823,0.662,7,-8.426,1,0.318,0.0118,0.0,0.0805,0.533,120.117,224040,spotify:track:5dHpbFmZjWucrol0M7aNGU
+140,Drake,305 To My City,0.519,0.487,4,-8.803,0,0.242,0.0515,0.0,0.15,0.126,112.281,255827,spotify:track:5wTRsfZKeaQnQn8JeW8QYQ
+141,Drake,Too Much,0.668,0.565,6,-5.879,1,0.505,0.171,0.0,0.124,0.142,140.489,261867,spotify:track:5LnXWeA9tuWKI2C1H74iiJ
+142,Drake,Pound Cake / Paris Morton Music 2,0.521,0.762,2,-6.746,1,0.529,0.138,1.11e-05,0.114,0.266,164.089,433800,spotify:track:4RI9eX7jNcdaQOJifn7t6z
+143,Drake,Come Thru,0.472,0.468,3,-5.815,1,0.184,0.163,0.0,0.586,0.404,81.94,236360,spotify:track:5Ggfa9cpkpfp5D6Rg0Yyw1
+144,Drake,All Me,0.668,0.515,1,-6.977,1,0.402,0.0703,0.0,0.223,0.425,122.014,271573,spotify:track:5ngydCLbzCEdtu8SEOXhPU
+145,Drake,The Motion,0.676,0.717,11,-8.219,0,0.0869,0.29,0.000368,0.0974,0.558,157.628,241000,spotify:track:3t8pnImpBpOwxdtYBpKvA9
