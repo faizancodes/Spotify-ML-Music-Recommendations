@@ -33,9 +33,9 @@ topArtists = []
 recSongURIs = []
 spotifyAlbums = {}
 
-username = 'xfaizy'
-client_id = '2db982c8b2f54c2ca27196012512659a'
-client_secret = 'd26051b027314cf1aace14b3046b36a7'
+username = 'ENTER_USERNAME_HERE'
+client_id = 'ENTER_CLIENT_ID_HERE'
+client_secret = 'ENTER_CLIENT_SECRET_ID_HERE'
 
 scope = 'user-top-read'
 
