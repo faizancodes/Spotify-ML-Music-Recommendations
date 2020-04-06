@@ -33,7 +33,7 @@ topArtists = []
 recSongURIs = []
 spotifyAlbums = {}
 
-username = 'xfaizy'
+username = 'ENTER_SPOTIFY_USERNAME_HERE'
 scope = 'user-top-read'
 
 
@@ -100,8 +100,8 @@ def initialize():
     global username
     global scope
 
-    client_id = '2db982c8b2f54c2ca27196012512659a'
-    client_secret = 'd26051b027314cf1aace14b3046b36a7'
+    client_id = 'ENTER_CLIENT_ID_HERE'
+    client_secret = 'ENTER_CLIENT_SECRET_HERE'
 
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id,
                                                         client_secret=client_secret)
