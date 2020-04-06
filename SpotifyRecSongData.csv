@@ -1,0 +1,630 @@
+,artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,uris
+0,Playboi Carti,Long Time - Intro,0.472,0.86,4,-3.967,0,0.0451,0.284,0.0,0.83,0.366,144.073,211773,spotify:track:4IO2X2YoXoUMv0M2rwomLC
+1,Playboi Carti,R.I.P.,0.725,0.723,8,-6.067,0,0.16,0.0119,0.0,0.086,0.509,140.003,192027,spotify:track:3L0IKstjUgDFVQAbQIRZRv
+2,Playboi Carti,Lean 4 Real (feat. Skepta),0.754,0.777,7,-5.077,1,0.0665,0.0303,0.0,0.362,0.159,75.98,177027,spotify:track:1JgkiUg9mSXSwcb5Gbi4Ur
+3,Playboi Carti,Old Money,0.716,0.618,2,-10.227,1,0.338,0.0271,0.0,0.342,0.584,162.957,135547,spotify:track:0syXbGoFZbTMXm8hGCEvW0
+4,Playboi Carti,Love Hurts (feat. Travis Scott),0.724,0.45,4,-5.763,0,0.0496,0.0315,1.36e-05,0.111,0.464,140.981,180560,spotify:track:3K6U7TamNyVSWcFH8pCQHX
+5,Playboi Carti,Shoota (feat. Lil Uzi Vert),0.674,0.649,1,-8.433,0,0.199,0.191,0.0,0.122,0.48,153.069,153800,spotify:track:2BJSMvOGABRxokHKB0OI8i
+6,Playboi Carti,Right Now (feat. Pierre Bourne),0.687,0.604,6,-5.005,0,0.0663,0.139,0.0,0.203,0.308,78.487,207013,spotify:track:475jSz0H6U3duJyNiDS0tT
+7,Playboi Carti,Poke It Out (with Nicki Minaj),0.894,0.59,9,-5.716,1,0.221,0.097,9.06e-06,0.329,0.575,147.009,269813,spotify:track:2rPSFKzGeqUWwfcCFVkkq3
+8,Playboi Carti,Home (KOD),0.722,0.686,7,-6.178,0,0.24,0.319,0.0,0.352,0.435,77.015,162133,spotify:track:5wPyd3IQAZft1vmxoIqGrU
+9,Playboi Carti,Fell In Luv (feat. Bryson Tiller),0.657,0.668,2,-6.208,1,0.137,0.0268,0.0,0.32,0.226,162.995,206333,spotify:track:1s9DTymg5UQrdorZf43JQm
+10,Playboi Carti,Foreign,0.762,0.705,6,-5.195,0,0.165,0.0906,0.0,0.17,0.264,122.955,142893,spotify:track:500l6Cwe40hkPqS7Sf7ufY
+11,Playboi Carti,Pull Up,0.84,0.597,2,-7.569,1,0.3,0.0109,0.000169,0.114,0.569,156.975,216400,spotify:track:424qpX6swdUdhLq95cecNu
+12,Playboi Carti,Mileage (feat. Chief Keef),0.742,0.616,1,-6.285,1,0.179,0.0623,0.0,0.111,0.396,150.855,149760,spotify:track:1oNcc2isuz7d3hc1fMoHqj
+13,Playboi Carti,FlatBed Freestyle,0.755,0.552,9,-5.604,1,0.288,0.0967,0.0,0.158,0.402,153.157,193973,spotify:track:5nayhWICkQGMTkisxVMbRw
+14,Playboi Carti,No Time (feat. Gunna),0.943,0.763,5,-5.568,0,0.133,0.0177,1.76e-05,0.114,0.229,139.969,219453,spotify:track:5pHJv0bgNsT9nPoK2BjNBn
+15,Playboi Carti,Middle Of The Summer (feat. Red Coldhearted),0.638,0.669,8,-6.442,1,0.234,0.0125,0.0,0.0747,0.452,136.867,137027,spotify:track:7AtBtwrKhz94hYXgGYyG58
+16,Playboi Carti,Choppa Wont Miss (feat. Young Thug),0.858,0.661,0,-6.544,1,0.319,0.0182,0.0,0.115,0.611,163.056,217960,spotify:track:5O9zs6G6RcB6yP1OKwnwiM
+17,Playboi Carti,R.I.P. Fredo (feat. Young Nudy) - Notice Me,0.912,0.755,2,-5.393,1,0.142,0.1,0.0,0.179,0.625,140.051,161200,spotify:track:45Ln3F9PRPYTXBcMFkZMzS
+18,Playboi Carti,Top (feat. Pierre Bourne),0.955,0.518,5,-5.522,0,0.0649,0.00906,0.0,0.113,0.162,130.003,133013,spotify:track:7HsvTUJcXRQVK6QuALkAvW
+19,Playboi Carti,Location,0.717,0.79,11,-4.213,1,0.2,0.33,0.000125,0.518,0.375,125.981,168784,spotify:track:3yk7PJnryiJ8mAPqsrujzf
+20,Playboi Carti,Magnolia,0.791,0.581,11,-7.323,0,0.286,0.0113,0.0,0.35,0.438,162.99,181812,spotify:track:1e1JKLEDKP7hEQzJfNAgPl
+21,Playboi Carti,Lookin,0.827,0.57,0,-8.22,1,0.365,0.0457,0.0,0.148,0.412,148.119,183552,spotify:track:1UAmQe8EwpxQ80OfYVD13z
+22,Playboi Carti,wokeuplikethis*,0.785,0.62,8,-6.668,1,0.254,0.0138,0.0,0.15,0.478,78.476,235535,spotify:track:59J5nzL1KniFHnU120dQzt
+23,Playboi Carti,Let It Go,0.685,0.53,11,-5.298,1,0.286,0.0036,0.0,0.573,0.55,157.012,150410,spotify:track:23QyE9GQpXsX9WgEDADMa6
+24,Playboi Carti,Half & Half,0.899,0.496,7,-4.691,1,0.329,0.136,0.0,0.139,0.145,127.046,227044,spotify:track:2TdZdeKIDMqi1B3139W4Wb
+25,Playboi Carti,New Choppa,0.772,0.605,0,-4.223,0,0.0579,0.174,0.0,0.329,0.425,128.162,126043,spotify:track:30sc425JEvj3tgmGAKORea
+26,Playboi Carti,Other Shit,0.841,0.47,0,-6.741,1,0.372,0.303,0.0,0.233,0.423,133.026,168713,spotify:track:1KsfhDZbBY2JjTHLmYhkK1
+27,Playboi Carti,NO. 9,0.885,0.607,1,-7.642,0,0.386,0.00973,0.0,0.325,0.391,137.881,199191,spotify:track:5Nq6lLSxphlsA6nQB0KtES
+28,Playboi Carti,dothatshit!,0.745,0.744,9,-5.56,1,0.254,0.067,0.0,0.279,0.451,162.965,184964,spotify:track:1KzNsOkpQthVwpCJrADJEQ
+29,Playboi Carti,Lame Niggaz,0.9,0.488,5,-6.371,0,0.274,0.0315,0.0,0.101,0.679,83.498,173683,spotify:track:1xUQwXDDKW79z7GRUt2vMW
+30,Playboi Carti,Yah Mean,0.776,0.73,5,-6.324,0,0.328,0.0639,0.0,0.113,0.74,162.984,165642,spotify:track:5MUxrNd7Gr2HksLcAlB0IO
+31,Playboi Carti,Flex,0.75,0.594,0,-5.619,0,0.282,0.48,0.0,0.166,0.255,130.104,240460,spotify:track:2xyBvir9n474qfsOkxXMgx
+32,Playboi Carti,Kelly K,0.715,0.522,1,-4.69,1,0.151,0.237,0.0,0.389,0.233,158.023,271154,spotify:track:3hDp5jRxvtD31giFGUaE1x
+33,Playboi Carti,Had 2,0.8,0.672,11,-7.925,0,0.32,0.0434,0.0,0.141,0.871,76.023,139279,spotify:track:2mkV4angeBLZPTcYOSrjee
+34,Playboi Carti,YUNGXANHOE,0.724,0.698,7,-6.191,1,0.117,0.0296,2.77e-06,0.293,0.29,105.995,176793,spotify:track:6Tk5hACxuFrRNGewPvPvgA
+35,Playboi Carti,Talk,0.931,0.296,5,-10.789,1,0.23,0.406,0.0,0.106,0.321,119.994,160237,spotify:track:5iFLfEbO9Wh8dobYylq8Rb
+36,Playboi Carti,I Got Depressed Hoes (feat. Slug Christ),0.426,0.818,8,-7.576,1,0.373,0.16,0.0,0.437,0.34,105.964,224449,spotify:track:15DEpxbVsJax3TgsmTIawc
+37,Playboi Carti,Count It Up,0.779,0.521,7,-7.289,0,0.0935,0.0137,0.0,0.115,0.164,137.995,209701,spotify:track:30o0noIgWIlDktuG8ehwY0
+38,Playboi Carti,Whole Thang (feat. Uno The Activist),0.764,0.723,10,-6.3,0,0.0613,0.00719,0.0,0.295,0.536,113.975,221319,spotify:track:0z99tERlbKF8R8kyUsOER0
+39,Playboi Carti,Dont Tell Nobody (feat. Hoodrich Keem),0.679,0.636,11,-7.65,0,0.323,0.178,0.0,0.379,0.481,141.986,217077,spotify:track:6dA4SztnztnXwYoBVR39wj
+40,Playboi Carti,Dem Callin (feat. Ramriddlz),0.578,0.721,4,-5.105,1,0.131,0.0103,0.0,0.329,0.662,127.115,247615,spotify:track:7e5WppzulpdTKAQu7uUNch
+41,Playboi Carti,Fetti (feat. Da$H Maxo Kream),0.74,0.55,10,-8.369,0,0.25,0.396,0.0,0.887,0.378,104.083,303788,spotify:track:6Y4CI6as0a7QjXaPiqU4Jt
+42,Playboi Carti,2Door (feat. Lamb),0.771,0.428,10,-8.054,1,0.117,0.669,1.93e-05,0.273,0.196,127.942,213778,spotify:track:3GNYTLCZgr2A3r2wn0nim4
+43,Playboi Carti,Paper,0.668,0.467,9,-7.477,0,0.0609,0.0114,0.0,0.278,0.202,119.957,195509,spotify:track:0lpnNjOgqmZcXjvx0Jf1Qz
+44,Playboi Carti,Pray 4 Me,0.463,0.497,10,-7.811,0,0.223,0.728,4.94e-05,0.175,0.213,177.743,126488,spotify:track:5AaNNK1S47TcvpS0UHPbMq
+45,Playboi Carti,Purple Pool (feat. Neako),0.727,0.674,4,-7.894,1,0.0569,0.458,0.0,0.0939,0.73,130.184,222154,spotify:track:36UyPzTqU6DhP4hMTSPe9C
+46,Playboi Carti,Sneak Dissin,0.562,0.569,10,-6.913,0,0.11,0.0405,0.0,0.319,0.424,139.516,65253,spotify:track:39NanNrdLpHPDAhpXjJkE9
+47,Playboi Carti,What We Doin,0.806,0.559,2,-5.878,1,0.151,0.273,0.0,0.361,0.305,140.078,164804,spotify:track:1AALPO6tYCybHHXp9tjTBy
+48,Playboi Carti,Freestyle 4 The People (feat. Ethereal),0.729,0.716,1,-6.013,0,0.325,0.411,0.0,0.253,0.72,112.977,305124,spotify:track:3hhUmjOEDRvasidgQcbrgr
+49,Playboi Carti,4Tspoon (feat. Yung Bans),0.707,0.654,11,-8.59,0,0.284,0.0895,3.32e-05,0.316,0.691,116.998,173897,spotify:track:45nws9GcCPP4D1n9hJ6Ytq
+50,Playboi Carti,Plug (feat. Kodak Black Rich The Kid),0.726,0.605,0,-6.463,1,0.172,0.0213,0.0,0.124,0.459,148.864,235336,spotify:track:2gFnXev7gwXCjKXoL0CkiW
+51,Gunna,Wit It,0.868,0.657,7,-5.318,0,0.0745,0.197,0.0,0.105,0.508,125.905,139644,spotify:track:1unFtbwcAnSGgYPmp52vc0
+52,Gunna,Outstanding,0.829,0.73,6,-4.554,0,0.241,0.309,0.0,0.109,0.324,149.075,180780,spotify:track:76PwajqH3ej4hnk9tgaJpp
+53,Gunna,One Call,0.861,0.481,2,-7.309,1,0.343,0.125,1.38e-05,0.0903,0.188,146.992,195736,spotify:track:3pq5dd3Hwg2uJ3d63v9YRx
+54,Gunna,Cash War,0.94,0.455,2,-6.046,1,0.21,0.0411,4.63e-06,0.114,0.106,108.065,195653,spotify:track:42vD3VJBNhxLQ1SWmryw8C
+55,Gunna,Richard Millie Plain,0.744,0.674,1,-7.518,0,0.0641,0.356,0.0,0.128,0.316,134.021,200135,spotify:track:14PWHDV87nXiSuClZDsEYC
+56,Gunna,Yao Ming,0.938,0.504,4,-6.414,0,0.364,0.179,0.0,0.102,0.586,139.976,149613,spotify:track:5bWYPkdp7tPbp1dhE9AX43
+57,Gunna,Idk Why,0.555,0.532,0,-8.191,1,0.448,0.101,4.17e-06,0.0772,0.296,97.26,199687,spotify:track:06S7iIXT8ZVAcVK6l1iXvx
+58,Gunna,Derek Fisher (feat. Lil Baby),0.759,0.562,9,-6.228,0,0.149,0.293,0.0,0.0979,0.706,145.139,189443,spotify:track:0mOp9tWdCRHfYwwVaO8ezw
+59,Gunna,Baby Birkin,0.848,0.649,2,-6.083,1,0.315,0.232,0.0,0.101,0.629,118.04,181948,spotify:track:0BOmhToQ03yOdpzYKMEnAg
+60,Gunna,Speed It Up,0.912,0.587,7,-7.395,1,0.0582,0.0394,0.01,0.111,0.435,143.027,179022,spotify:track:6PfI6EeLNiNGVAVg11nv7D
+61,Gunna,3 Headed Snake (feat. Young Thug),0.914,0.415,6,-10.708,1,0.464,0.0536,0.0,0.131,0.646,135.03,241995,spotify:track:2OaKHGvIxoOzIYjyMsxcT8
+62,Gunna,Big Shot,0.82,0.551,2,-6.144,1,0.125,0.0301,5.92e-06,0.134,0.328,156.983,177683,spotify:track:3QLvGx3PNgsyIjJOyIcuGh
+63,Gunna,On A Mountain,0.787,0.552,4,-7.676,0,0.0685,0.0808,0.0,0.102,0.21,81.987,175721,spotify:track:79Dpa6xXRNsXzMueN8BvAg
+64,Gunna,Out The Hood,0.84,0.427,5,-9.777,0,0.376,0.375,2.55e-05,0.111,0.445,147.931,155873,spotify:track:3OGGzDmPU14szwANX5tbbn
+65,Gunna,Same Yung Nigga (feat. Playboi Carti),0.852,0.568,1,-9.202,0,0.344,0.183,0.0,0.0993,0.504,81.526,180935,spotify:track:1q9jq5X5vwmewjOa2mHtQ1
+66,Gunna,Who You Foolin,0.916,0.756,0,-7.653,1,0.188,0.0942,0.0,0.23,0.756,115.69,151539,spotify:track:7KVPsVMOK3NL7subwJ0dZj
+67,Lil Baby,Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV),0.859,0.506,10,-8.115,0,0.418,0.105,0.0,0.113,0.153,140.973,187465,spotify:track:6PoKfDY78ih5OveWirggRX
+68,Lil Baby,Business Is Business (Lil Baby & Gunna),0.821,0.636,7,-6.038,0,0.0899,0.288,0.0,0.104,0.4,142.008,162268,spotify:track:7roKDmJDOzkpfGpUQJ5EnL
+69,Lil Baby,Belly (Lil Baby & Gunna),0.766,0.692,1,-5.343,1,0.0705,0.175,0.0,0.0844,0.426,120.028,191724,spotify:track:1yQvL8SzbF5JCroRKk9F07
+70,Lil Baby,Deep End (Lil Baby & Gunna),0.658,0.535,11,-8.197,1,0.515,0.257,0.0,0.0981,0.395,150.055,174662,spotify:track:16QjPRt5HYK0dnLGmGRCvf
+71,Lil Baby,World Is Yours (Lil Baby & Gunna),0.834,0.557,6,-7.148,1,0.543,0.113,0.0,0.0694,0.575,109.867,157199,spotify:track:0p0jvYdazuWBMC8QacxpUH
+72,Lil Baby,Underdog (Lil Baby & Gunna),0.791,0.735,5,-4.764,0,0.16,0.0427,0.0,0.134,0.497,144.985,211853,spotify:track:2Am26UXisQ91vBLYdqd7Pa
+73,Lil Baby,I Am (Lil Baby & Gunna),0.822,0.461,1,-6.506,1,0.449,0.328,0.0,0.122,0.268,130.003,145060,spotify:track:3F57PtOdqRpD6euFYqtKXX
+74,Lil Baby,Seals Pills (Lil Baby & Gunna),0.624,0.541,9,-7.162,0,0.0496,0.0137,1.01e-06,0.106,0.368,156.089,176331,spotify:track:7HLglWbzDheHZ3VZUbxGLC
+75,Lil Baby,My Jeans (Lil Baby & Gunna feat. Young Thug),0.435,0.715,11,-5.869,1,0.186,0.119,0.0,0.531,0.382,100.576,196448,spotify:track:4T7cJdrTRqOBESPYfvfj2x
+76,Lil Baby,Style Stealer (Lil Baby & Gunna),0.808,0.523,1,-7.034,0,0.0605,0.0741,0.000295,0.0957,0.321,155.998,185382,spotify:track:1jzOG0T6JjvaOoHgzl91Nd
+77,Lil Baby,Close Friends (Lil Baby & Gunna),0.676,0.578,10,-4.669,0,0.375,0.0509,0.0,0.0796,0.698,158.896,203881,spotify:track:5nzhL67GpF9szXWg5y509A
+78,Lil Baby,Drip Too Hard (Lil Baby & Gunna),0.897,0.662,1,-6.903,0,0.292,0.0852,0.0,0.534,0.389,112.511,145543,spotify:track:78QR3Wp35dqAhFEc2qAGjE
+79,Lil Baby,Never Recover (Lil Baby & Gunna Drake),0.753,0.686,1,-5.415,0,0.284,0.0677,0.0,0.193,0.886,132.055,194732,spotify:track:6wWaVoUOzLQJHd3bWAUpdZ
+80,Gunna,Helluva Price,0.865,0.383,1,-10.154,1,0.252,0.579,0.0,0.127,0.245,135.049,145796,spotify:track:5bFym95c4l7Q7cVIYArOzC
+81,Gunna,Drippin,0.86,0.365,0,-7.102,0,0.439,0.045,0.0,0.122,0.148,147.031,156735,spotify:track:3hRgJDDSSv7ldLVlWUlas9
+82,Gunna,Almighty (feat. HoodRich Pablo Juan),0.952,0.334,1,-11.375,1,0.471,0.208,1.57e-05,0.113,0.274,117.977,144407,spotify:track:7tjXeAUgZEe2yE6nSOcqWA
+83,Gunna,At The Hotel (feat. Lil Uzi Vert & Young Jordan),0.902,0.627,1,-7.028,1,0.246,0.036,0.0,0.0795,0.397,141.999,229859,spotify:track:5RIVAc0J3PAsw4aqkzO7TM
+84,Gunna,Top Off,0.906,0.395,1,-11.277,1,0.206,0.0103,0.000195,0.117,0.376,146.056,197420,spotify:track:0HCnj7pfrvshnocOJUFeit
+85,Gunna,King Kong (feat. Young Thug),0.818,0.453,10,-8.254,0,0.316,0.0699,0.0,0.102,0.0493,144.924,152690,spotify:track:6I1EY5Wvad8WD0mVWDjka9
+86,Gunna,Pedestrian,0.736,0.578,7,-7.387,1,0.129,0.0906,1.58e-06,0.319,0.133,172.96,225381,spotify:track:30YhyUmaegqSxsBICCeVzY
+87,Gunna,Lies About You (feat. Lil Durk),0.755,0.631,8,-7.9,1,0.152,0.0816,1.36e-05,0.111,0.525,153.094,175686,spotify:track:3vCzerngFaftC640dbuh8B
+88,Gunna,Mistress,0.92,0.664,2,-5.74,1,0.271,0.0276,0.0,0.106,0.498,148.039,171372,spotify:track:4WSbFi3yvVmaS2JGYu0h7P
+89,Gunna,Car Sick (feat. NAV & Metro Boomin),0.859,0.574,7,-6.16,1,0.399,0.0989,0.0,0.0918,0.405,149.995,219817,spotify:track:4xisLMFhYADhKnkOCCV4Am
+90,Gunna,My Soul,0.843,0.304,7,-12.21,0,0.328,0.685,3.78e-06,0.147,0.144,115.301,158333,spotify:track:0OQpNjKRWIuHwsw1pHb397
+91,Gunna,No Joke,0.874,0.404,1,-9.709,0,0.517,0.0949,3.22e-06,0.104,0.156,77.52,195097,spotify:track:37ehwQANnRHdqvWdPlkFWA
+92,Gunna,Oh Okay (feat. Young Thug & Lil Baby),0.889,0.516,8,-8.852,1,0.327,0.372,0.0,0.0926,0.732,140.005,199012,spotify:track:38844QuZDlnt44uHPrSA3S
+93,Gunna,Spending Addiction,0.887,0.455,1,-5.948,1,0.444,0.697,0.0,0.101,0.655,124.959,186480,spotify:track:5diN5Ht0cc3B7iAbYde8i3
+94,Gunna,Money Dont Change You,0.769,0.603,5,-8.03,0,0.178,0.0506,0.138,0.165,0.295,163.046,157037,spotify:track:5jEcSol3KvaNc12SMyQcOu
+95,Gunna,Toast Up,0.571,0.422,2,-12.008,1,0.685,0.241,0.0,0.434,0.673,82.186,229977,spotify:track:0nlQLaytSQwrY6d5cS2X2i
+96,Gunna,Drip or Drown Remix (feat. Lil Yachty),0.943,0.38,5,-13.671,0,0.438,0.663,0.0,0.124,0.696,118.006,178983,spotify:track:4rTwXrxC6fyn3g5y3DGTIJ
+97,Gunna,Helluva Price,0.865,0.383,1,-10.154,1,0.252,0.579,0.0,0.127,0.245,135.049,145796,spotify:track:1ezsSxRFEXnPsdexydD6vo
+98,Gunna,Drippin,0.86,0.365,0,-7.102,0,0.439,0.045,0.0,0.122,0.148,147.031,156735,spotify:track:29kNLFWWVJqcIPuUh62sqa
+99,Gunna,Almighty (feat. HoodRich Pablo Juan),0.952,0.334,1,-11.375,1,0.471,0.208,1.57e-05,0.113,0.274,117.977,144407,spotify:track:2KKE12IcWCRU4PIoH7ep48
+100,Gunna,Top Off,0.906,0.395,1,-11.277,1,0.206,0.0103,0.000195,0.117,0.376,146.056,197420,spotify:track:3QVz0ruRCFdkQ8QCeJeSG5
+101,Gunna,Pedestrian,0.736,0.578,7,-7.387,1,0.129,0.0906,1.58e-06,0.319,0.133,172.96,225381,spotify:track:0CMXKWVTYP26KFg8arHFc1
+102,Gunna,Lies About You (feat. Lil Durk),0.755,0.631,8,-7.9,1,0.152,0.0816,1.36e-05,0.111,0.525,153.094,175686,spotify:track:4Bp42ZDT5L6ZXuOBuiIK0l
+103,Gunna,Mistress,0.92,0.664,2,-5.74,1,0.271,0.0276,0.0,0.106,0.498,148.039,171372,spotify:track:02V0G7A8STUkd6tfEd2b57
+104,Gunna,Car Sick (feat. NAV & Metro Boomin),0.859,0.574,7,-6.16,1,0.399,0.0989,0.0,0.0918,0.405,149.995,219817,spotify:track:1yj4AT3LsRAnAxWeJKBj27
+105,Gunna,My Soul,0.843,0.304,7,-12.21,0,0.328,0.685,3.78e-06,0.147,0.144,115.301,158333,spotify:track:1q7zSI5bGEpWVrkXQLybrd
+106,Gunna,No Joke,0.874,0.404,1,-9.709,0,0.517,0.0949,3.22e-06,0.104,0.156,77.52,195097,spotify:track:5KsH361rixKllwB5WsD7y7
+107,Gunna,Spending Addiction,0.887,0.455,1,-5.948,1,0.444,0.697,0.0,0.101,0.655,124.959,186480,spotify:track:1sqyY6N2mKPjCti3OKZPfk
+108,Gunna,Money Dont Change You,0.769,0.603,5,-8.03,0,0.178,0.0506,0.138,0.165,0.295,163.046,157037,spotify:track:5LTfRa7I7Fnj37bowR5pLF
+109,Gunna,Toast Up,0.571,0.422,2,-12.008,1,0.685,0.241,0.0,0.434,0.673,82.186,229977,spotify:track:3gCWNYwJh6uIhGVbMVy0gV
+110,Gunna,Drip or Drown Remix (feat. Lil Yachty),0.943,0.38,5,-13.671,0,0.438,0.663,0.0,0.124,0.696,118.006,178983,spotify:track:2CbcITWXnLwQeDFJn9Gldm
+111,Gunna,Paid,0.517,0.603,11,-7.525,1,0.0725,0.128,0.0,0.527,0.0835,151.346,155832,spotify:track:3l3Zjelv5OKCEszwGPBBMw
+112,Gunna,Drip or Drown,0.952,0.478,5,-8.52,0,0.361,0.774,0.0,0.112,0.568,118.008,126168,spotify:track:6ZthdsKjWtiCxnxbhs74vF
+113,Gunna,Invest,0.795,0.256,2,-17.405,1,0.785,0.065,2.2e-06,0.113,0.241,169.995,180767,spotify:track:7G7NIu68oPazOw3iGZOo5P
+114,Gunna,Dont Give Up,0.803,0.441,8,-10.253,1,0.381,0.0347,0.00337,0.078,0.473,153.128,172330,spotify:track:4qBdbmW8xHyVlqdBHsHejv
+115,Gunna,Award,0.76,0.61,5,-8.827,0,0.124,0.85,0.0,0.146,0.386,129.949,169896,spotify:track:0h10QOjsPhpyRBF2FyuHaH
+116,Gunna,Dont Play With It (feat. Young Thug),0.921,0.372,1,-14.841,0,0.232,0.00887,0.000221,0.0813,0.655,139.987,250723,spotify:track:4Lg4amkojlVz5FQtbH0e3C
+117,Gunna,Dodge The Hate,0.88,0.301,5,-11.483,0,0.273,0.0538,0.00445,0.132,0.283,135.96,155263,spotify:track:2QZqsSJQ4xcETLTlFtnUVA
+118,Gunna,Paid,0.476,0.582,11,-7.684,1,0.107,0.121,0.0,0.536,0.0703,151.025,155747,spotify:track:3I6FH4wqpA9EUPkkPDIZRc
+119,Gunna,Drip or Drown,0.954,0.475,5,-8.547,0,0.369,0.785,0.0,0.111,0.62,117.872,126198,spotify:track:23lyb7RSky3alYKzhUac8P
+120,Gunna,Invest,0.797,0.253,2,-17.5,1,0.772,0.0855,1.19e-06,0.114,0.261,169.988,180767,spotify:track:6Y7jBcmO8dQMmZnbLDZMOC
+121,Gunna,Dont Give Up,0.805,0.441,8,-10.405,1,0.382,0.034,0.00379,0.0712,0.466,153.108,172356,spotify:track:4u4PzpnjR2gcQIlPY7WYlz
+122,Gunna,Award,0.75,0.591,5,-8.836,0,0.125,0.856,0.0,0.144,0.397,129.95,169874,spotify:track:4dBsSMY7YIodvScTo3oCB3
+123,Gunna,Dont Play With It,0.92,0.366,1,-14.895,0,0.248,0.0096,0.000276,0.078,0.633,139.984,250697,spotify:track:44QNUSfqnVLbsuC120tvFd
+124,Gunna,Dodge the Hate,0.885,0.292,5,-11.483,0,0.222,0.06,0.00579,0.133,0.205,135.975,155298,spotify:track:4aglFqH1BXMCG7oyUMUili
+125,Gunna,Phase,0.81,0.384,8,-11.323,1,0.118,0.436,0.0,0.123,0.311,124.982,231408,spotify:track:1AKtknlWBsv7umZIDnv4lU
+126,Gunna,Belly of The Beast,0.849,0.451,6,-8.423,0,0.095,0.174,2.05e-06,0.157,0.456,122.071,206616,spotify:track:6KctApRdRLEEhzFJLhJfCr
+127,Gunna,Top,0.924,0.399,0,-8.243,0,0.276,0.583,0.0,0.154,0.267,130.028,140382,spotify:track:2aFS7C1aaOFv9ZK0VmWHUe
+128,Gunna,Shopping,0.918,0.416,9,-12.652,0,0.192,0.191,0.0,0.108,0.382,129.956,162560,spotify:track:5kQn7qkpgDq8o18yuYQ6CF
+129,Gunna,Japan,0.84,0.638,5,-5.35,0,0.133,0.335,0.0,0.0847,0.572,135.991,169639,spotify:track:2PBzQP1Flj1t0TOubfBkJQ
+130,Gunna,Another Wave (feat. Shad Da God & Duke),0.915,0.533,1,-7.402,1,0.278,0.0525,0.0,0.0937,0.599,146.057,173640,spotify:track:59Whq4nWsrKSoLQpl6GDZa
+131,Gunna,Highschool,0.881,0.3,6,-17.897,0,0.349,0.421,0.0,0.105,0.793,138.98,194403,spotify:track:0GBliS8SJzDONETZcwYiry
+132,Gunna,Make No Sense (feat. Duke),0.83,0.34,6,-14.897,0,0.488,0.581,0.0,0.0685,0.35,74.993,176065,spotify:track:3XVwFu7roW4PfdHARcG2hJ
+133,Gunna,Money Talking (feat. Nechie),0.609,0.74,1,-4.835,1,0.0967,0.126,0.0,0.0961,0.486,147.042,245394,spotify:track:30KHTPZJiTfxZJttgV4x8y
+134,Gunna,Secure The Vibe (feat. Young Thug),0.923,0.532,1,-9.578,0,0.2,0.244,1.15e-06,0.11,0.219,139.925,164624,spotify:track:0Zh07yxAYHbGrjd0wFd0be
+135,Gunna,A$$,0.831,0.266,5,-15.839,0,0.348,0.78,1.95e-05,0.0979,0.434,130.016,206832,spotify:track:3hBZx0lcNZCihzxVkL2NTW
+136,Gunna,YSL (feat. Playboi Carti),0.788,0.611,11,-8.442,1,0.349,0.106,0.0,0.261,0.565,81.586,156144,spotify:track:6DXUcykWTq6sRARrOAE2Lc
+137,Gunna,Park The Car,0.818,0.412,11,-12.866,0,0.131,0.261,0.0,0.212,0.105,125.995,228650,spotify:track:6aaillEH57MBBSlPxcsS11
+138,Gunna,Get It If You Want It,0.629,0.468,4,-13.033,0,0.337,0.0919,0.0,0.128,0.224,77.095,174655,spotify:track:6YPgyNj9op6f96lwDPASCz
+139,Gunna,Beat The Case (feat. Offset) - Bonus Track,0.859,0.529,5,-5.666,0,0.0865,0.125,0.0,0.0906,0.228,130.049,207912,spotify:track:5OcT3ogKvbL2vrW0x7GkHU
+140,Gunna,Mayors (feat. HoodRich Pablo Juan) - Bonus Track,0.738,0.455,10,-12.242,0,0.0831,0.31,0.00412,0.142,0.131,132.965,203640,spotify:track:2iolk8fIsg8935z52wHsqk
+141,Gunna,Outta Sight Outta Mind,0.93,0.264,4,-15.286,0,0.479,0.163,0.0,0.0924,0.462,121.027,234110,spotify:track:1iKb3Z8NtkTf9auS0lzKbh
+142,Gunna,Against Me,0.85,0.532,9,-11.363,0,0.27,0.341,0.0,0.257,0.637,141.968,216399,spotify:track:7c9qWWG1kJVgov0rrIlvxd
+143,Gunna,Young Nigga,0.883,0.288,0,-12.53,1,0.503,0.406,0.0,0.18,0.33,119.884,162065,spotify:track:5CEU341AW2NIQXZMxdXpFa
+144,Gunna,Rockstar Status,0.916,0.526,1,-8.541,0,0.283,0.103,0.0,0.0868,0.262,138.998,175857,spotify:track:2wJAP00RGJjOIcp1YkBmob
+145,Gunna,Cop Me a Foreign (feat. Young Thug),0.815,0.721,6,-4.126,1,0.286,0.214,0.0,0.0897,0.704,129.984,310231,spotify:track:0XQpo99HTzw8iQw2gkOFjM
+146,Gunna,Cant Relate,0.799,0.646,4,-6.596,0,0.0377,0.123,7.25e-06,0.174,0.27,126.963,245735,spotify:track:4lNJp8zAhFeuY0fTlx4kch
+147,Gunna,Stay Focused (feat. Nechie),0.765,0.337,8,-15.379,0,0.244,0.306,0.0011,0.117,0.257,114.988,258326,spotify:track:5Hp1buRlO5TYc3mkNNQztq
+148,Gunna,Solid (feat. Duke),0.853,0.376,1,-12.25,0,0.472,0.359,0.0,0.367,0.447,121.979,196873,spotify:track:0pAdYYevt6KFEyvLMod6dL
+149,Gunna,How Can I Switch (feat. Young Trez),0.852,0.671,4,-7.751,0,0.255,0.128,0.0,0.104,0.411,129.967,160759,spotify:track:5WPQTyVZ4t8CZ0eoX6K2xx
+150,Gunna,Goin In,0.893,0.327,8,-14.804,0,0.472,0.194,0.0,0.104,0.422,120.017,160053,spotify:track:5F2fn9byyXTceCan3XUD40
+151,Young Thug,Diamonds (feat. Gunna),0.919,0.367,10,-9.546,0,0.464,0.00424,0.00019,0.175,0.228,147.033,210733,spotify:track:2HIjQZsmscClqRGbfzwAgK
+152,Young Thug,Hop Off A Jet (feat. Travis Scott),0.823,0.476,7,-8.951,1,0.242,0.0115,0.0,0.213,0.353,144.998,174067,spotify:track:3RZftiuTcLOqpsd8ZlwNhr
+153,Young Thug,Die Today,0.941,0.418,10,-10.382,0,0.296,0.0121,0.0,0.126,0.518,135.001,180507,spotify:track:0yZpMYvpqopK9adJrDT3S9
+154,Young Thug,Millions,0.942,0.531,1,-7.51,1,0.215,0.00236,0.000106,0.0812,0.74,99.027,157520,spotify:track:43YQDj1KOPMFAUcTEPKy4p
+155,Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],0.845,0.631,7,-8.206,0,0.216,0.188,0.0,0.0806,0.545,111.983,279907,spotify:track:4ea9w8c4ROqiZpJVhfBA3m
+156,Young Thug,Just How It Is,0.611,0.539,7,-10.617,1,0.411,0.0485,0.0,0.127,0.627,82.766,207133,spotify:track:5OC4vQl6XKvsCzgrPwzY1q
+157,Young Thug,Sup Mate (feat. Future),0.874,0.552,1,-7.951,1,0.271,0.000786,0.286,0.144,0.521,147.043,238027,spotify:track:0F7uqQx9trviYhGwD0GD9B
+158,Young Thug,Ecstasy (feat. Machine Gun Kelly),0.826,0.691,1,-6.557,1,0.129,0.000541,0.0,0.157,0.603,162.966,178240,spotify:track:7IC0bFfGCYpdVOTcaIP8Wk
+159,Young Thug,Hot (feat. Gunna),0.855,0.651,0,-8.044,0,0.235,0.063,0.0,0.0772,0.559,111.997,193027,spotify:track:0SfyLjgqVjf7HlEqMdK1y4
+160,Young Thug,Light It Up,0.953,0.515,10,-8.546,1,0.0846,0.00389,0.0,0.11,0.351,138.039,209253,spotify:track:2G1O1E91aRpIX5r6ngW51V
+161,Young Thug,Surf (feat. Gunna),0.93,0.561,0,-8.053,1,0.25,0.101,0.0,0.0992,0.596,140.987,184093,spotify:track:4bDucmQDna7svslTkXP0YR
+162,Young Thug,Bad Bad Bad (feat. Lil Baby),0.974,0.596,6,-8.888,1,0.184,0.0976,0.0,0.151,0.892,111.959,149040,spotify:track:3Ih7VhpeRyTIabBEGSCEW5
+163,Young Thug,Lil Baby,0.848,0.455,1,-9.568,1,0.0746,0.00252,0.0,0.112,0.66,163.004,201893,spotify:track:7L5kgecwyLEhX27NZlVxiP
+164,Young Thug,Whats the Move (feat. Lil Uzi Vert),0.961,0.438,7,-7.877,1,0.31,0.0431,0.0,0.139,0.412,124.018,251080,spotify:track:4AV8V8uTcOTwbuXjSPrAWE
+165,Young Thug,I Bought Her (feat. Lil Duke),0.913,0.57,7,-7.886,1,0.248,0.000462,0.0,0.063,0.607,136.079,201747,spotify:track:0yFy24V9CJhRa1z9obC7Ly
+166,Young Thug,Jumped Out the Window,0.928,0.515,1,-8.306,1,0.0859,0.00081,0.0,0.235,0.387,138.049,204027,spotify:track:1t3RWEeRtnHCIpx8HYWqzS
+167,Young Thug,Im Scared (feat. 21 Savage & Doe Boy),0.909,0.414,1,-7.316,1,0.3,0.00333,3.4e-06,0.114,0.138,146.004,200733,spotify:track:4y00KeXFOME9ABLEfaNg37
+168,Young Thug,Cartier Gucci Scarf (feat. Lil Duke),0.935,0.505,1,-7.155,0,0.0931,0.0508,0.0,0.0841,0.183,128.044,198173,spotify:track:3J7mXGLaO87MFu42WAb66h
+169,Young Thug,Big Tipper (feat. Lil Keed),0.898,0.589,2,-7.841,1,0.27,0.000709,0.0,0.164,0.277,155.005,223173,spotify:track:2ppp5hZ4TX9NlrycVEeH3l
+170,Young Thug,Pussy,0.808,0.756,5,-7.429,0,0.214,0.00161,9.26e-05,0.226,0.631,74.999,141493,spotify:track:5g9AzK8TyFGBDsOAD2M7jj
+171,Young Thug,Circle Of Bosses (feat. Quavo),0.899,0.488,2,-7.404,0,0.392,0.00938,0.0,0.359,0.542,150.04,179467,spotify:track:2aPhlZWgrl0LjBHOUNv8PL
+172,Young Thug,Mannequin Challenge (feat. Juice WRLD),0.857,0.583,1,-7.466,0,0.086,0.0899,0.0,0.204,0.443,132.01,162400,spotify:track:4xzSmycmoheCQGJLvYtDFU
+173,Young Thug,Boy Back (feat. NAV),0.777,0.573,9,-8.848,0,0.191,0.0415,0.0,0.365,0.387,143.017,202600,spotify:track:0Dp2fhCbo5PRzjGW5N5tBm
+174,Young Thug,The London (feat. J. Cole & Travis Scott),0.784,0.517,4,-8.981,0,0.209,0.0249,1.44e-06,0.155,0.206,97.991,200187,spotify:track:2UcJF4S4yazTz1uQ7Tb8SA
+175,Young Thug,Just How It Is,0.611,0.539,7,-10.617,1,0.411,0.0485,0.0,0.127,0.627,82.766,207133,spotify:track:5KYhIFNTp4VQUqlsbLWTTu
+176,Young Thug,Sup Mate (feat. Future),0.874,0.552,1,-7.951,1,0.271,0.000786,0.286,0.144,0.521,147.043,238027,spotify:track:0zNHMc1cGKe4MO5rtGtKRh
+177,Young Thug,Ecstasy (feat. Machine Gun Kelly),0.826,0.691,1,-6.557,1,0.129,0.000541,0.0,0.157,0.603,162.966,178240,spotify:track:1yBbxDXEfr8boXM1ubvBHi
+178,Young Thug,Hot (feat. Gunna),0.855,0.651,0,-8.044,0,0.235,0.063,0.0,0.0772,0.559,111.997,193027,spotify:track:5Z8HZM6iQMhhqyPcCGY5g9
+179,Young Thug,Light It Up,0.953,0.515,10,-8.546,1,0.0846,0.00389,0.0,0.11,0.351,138.039,209253,spotify:track:41mzryVlFLlz6b1BCtJAjx
+180,Young Thug,Surf (feat. Gunna),0.93,0.561,0,-8.053,1,0.25,0.101,0.0,0.0992,0.596,140.987,184093,spotify:track:6igOR5QCn09zAVF2ikZjsV
+181,Young Thug,Bad Bad Bad (feat. Lil Baby),0.974,0.596,6,-8.888,1,0.184,0.0976,0.0,0.151,0.892,111.959,149040,spotify:track:1GeNui6m825V8jP4uKiIaH
+182,Young Thug,Lil Baby,0.848,0.455,1,-9.568,1,0.0746,0.00252,0.0,0.112,0.66,163.004,201893,spotify:track:1MGWgLxUXDodD8Tw8TFppN
+183,Young Thug,Whats the Move (feat. Lil Uzi Vert),0.961,0.438,7,-7.877,1,0.31,0.0431,0.0,0.139,0.412,124.018,251080,spotify:track:3pTScODwk9tggZzmuH6xDY
+184,Young Thug,I Bought Her (feat. Lil Duke),0.913,0.57,7,-7.886,1,0.248,0.000462,0.0,0.063,0.607,136.079,201747,spotify:track:7HPUVxJdwGMujRmstBlvp7
+185,Young Thug,Jumped Out the Window,0.928,0.515,1,-8.306,1,0.0859,0.00081,0.0,0.235,0.387,138.049,204027,spotify:track:0o7Zga5TFy35CcivyPDO5m
+186,Young Thug,Im Scared (feat. 21 Savage & Doe Boy),0.909,0.414,1,-7.316,1,0.3,0.00333,3.4e-06,0.114,0.138,146.004,200733,spotify:track:3uW1lWgdTN494vIxu3R9Or
+187,Young Thug,Cartier Gucci Scarf (feat. Lil Duke),0.935,0.505,1,-7.155,0,0.0931,0.0508,0.0,0.0841,0.183,128.044,198173,spotify:track:3TWSar7EBNWZVeEWqDSjpw
+188,Young Thug,Big Tipper (feat. Lil Keed),0.898,0.589,2,-7.841,1,0.27,0.000709,0.0,0.164,0.277,155.005,223173,spotify:track:2lcJWXNJUjjL3ycoZrpU2g
+189,Young Thug,Pussy,0.808,0.756,5,-7.429,0,0.214,0.00161,9.26e-05,0.226,0.631,74.999,141493,spotify:track:5ZzQZcpwW7IyhKopLuoiwn
+190,Young Thug,Circle Of Bosses (feat. Quavo),0.899,0.488,2,-7.404,0,0.392,0.00938,0.0,0.359,0.542,150.04,179467,spotify:track:5UmRDaMPkV6g2HVMWoKx8u
+191,Young Thug,Mannequin Challenge (feat. Juice WRLD),0.857,0.583,1,-7.466,0,0.086,0.0899,0.0,0.204,0.443,132.01,162400,spotify:track:5TnLXSd4h6G06Fbt2ApOpa
+192,Young Thug,Boy Back (feat. NAV),0.777,0.573,9,-8.848,0,0.191,0.0415,0.0,0.365,0.387,143.017,202600,spotify:track:369g3Kv6MXsl0wn7PNtWvO
+193,Young Thug,The London (feat. J. Cole & Travis Scott),0.784,0.517,4,-8.981,0,0.209,0.0249,1.44e-06,0.155,0.206,97.991,200187,spotify:track:3s4mrPrEFFPF0LmAfutW0n
+194,Young Thug,Tsunami,0.826,0.457,1,-10.324,1,0.371,0.00145,0.0,0.14,0.53,156.001,187933,spotify:track:0GOOWPWqR2N7h3NkDi7oez
+195,Young Thug,U Aint Slime Enough (feat. Karlae & Duke),0.715,0.507,5,-10.613,0,0.26,0.0348,0.0,0.112,0.409,152.957,254080,spotify:track:34tMZsMP16tF90ajknBxyb
+196,Young Thug,Gain Clout,0.785,0.581,2,-9.95,1,0.156,0.000377,0.0108,0.25,0.254,172.014,125467,spotify:track:4EgL00l7AjD7mWuW4JMJ7r
+197,Young Thug,Oh Yeah (feat. HiDoraah),0.673,0.409,0,-12.332,1,0.0977,0.0659,0.0,0.122,0.367,153.977,213440,spotify:track:3zDNGCNu3JxLlZlLmy8YNh
+198,Young Thug,Audemar (feat. Tracy T),0.907,0.499,8,-9.985,1,0.256,0.0296,0.0,0.118,0.559,131.97,207333,spotify:track:0NoQpbfJ6n7KUY2YlZI1j6
+199,Young Thug,Chanel (Go Get It) [feat. Gunna & Lil Baby],0.938,0.5,4,-10.08,0,0.144,0.00183,0.0,0.077,0.462,140.011,201707,spotify:track:0kCBorRrKZkSztd9m0QI3r
+200,Young Thug,Dirty Shoes (feat. Gunna),0.849,0.38,1,-8.788,1,0.441,0.0207,0.0,0.0958,0.423,155.96,198400,spotify:track:5yh7nX2VqXUWjBVAzEwtVn
+201,Young Thug,Its A Slime (feat. Lil Uzi Vert),0.863,0.464,1,-10.559,1,0.346,0.00449,0.0,0.0938,0.566,75.5,142840,spotify:track:3HxYOwZZHZn5mC1drqPQqR
+202,Young Thug,Scoliosis (feat. Gunna & Duke),0.925,0.639,10,-9.728,0,0.356,0.127,0.0,0.0561,0.68,140.031,220987,spotify:track:2AKWKzRCuyuMJzMzsJKr8G
+203,Young Thug,Goin Up (feat. Lil Keed),0.701,0.572,0,-10.389,1,0.509,0.0678,0.0,0.387,0.599,153.933,214867,spotify:track:2pOm7AA1mtZ1sAjfzUscvx
+204,Young Thug,January 1st (feat. Jacquees & Trap Boy Freddy),0.679,0.436,7,-10.233,0,0.44,0.000523,0.0,0.109,0.295,161.907,258587,spotify:track:21FpDaSM6pSxpnJOhsxDCJ
+205,Young Thug,Chains Choking Me (feat. Gunna),0.722,0.482,2,-11.249,1,0.325,0.0123,0.0,0.112,0.0842,81.735,181453,spotify:track:2KG4X41ARZad7B6XczCvgc
+206,Young Thug,STS (feat. Strick),0.859,0.599,0,-10.546,1,0.238,0.0224,0.0,0.279,0.539,140.066,219413,spotify:track:2VypG9FeVsKkYyvsYG8PUU
+207,Young Thug,Expensive (feat. HiDoraah & Dolly),0.851,0.499,8,-10.188,0,0.34,0.0922,0.0,0.193,0.805,152.035,176827,spotify:track:5Lnpm8pCyjf3cidPFDHO2x
+208,Young Thug,Slimed In (feat. Nechie),0.907,0.407,5,-10.034,0,0.367,0.0676,0.0,0.0944,0.41,140.026,248667,spotify:track:0hNVDwDbLCym2q63TOLzAG
+209,Young Thug,You The One,0.719,0.717,1,-6.239,0,0.104,0.0386,0.0,0.25,0.357,139.887,198027,spotify:track:0CUfi8Wr6BjnqaHZq2ttD1
+210,Young Thug,Get That Money,0.659,0.45,8,-8.294,0,0.343,0.197,0.0,0.108,0.504,139.885,187456,spotify:track:79dy9f8smYZ1doFbzel7Bi
+211,Young Thug,Myself,0.503,0.543,10,-8.203,0,0.453,0.0124,0.0,0.0627,0.369,82.991,288053,spotify:track:7xPYUbsmB0jItocBfLjO1N
+212,Young Thug,Purpose,0.729,0.468,1,-8.513,0,0.185,0.0391,0.0,0.277,0.366,139.994,158126,spotify:track:44nFWkSk0DiGZU2DdlGksi
+213,Young Thug,Because Of Me,0.676,0.666,11,-6.705,0,0.228,0.0946,0.0,0.115,0.419,141.87,230746,spotify:track:4wfXGwwGkqhzuEDRCBTC5j
+214,Young Thug,Pour It Up,0.816,0.626,2,-6.69,1,0.0447,0.0238,0.0,0.0901,0.148,120.004,271027,spotify:track:3ITlVFo3Do55Q9hBFYGySI
+215,Young Thug,Stay Focused,0.743,0.508,5,-7.488,0,0.224,0.622,0.0,0.125,0.441,97.98,275677,spotify:track:0WFPUgTcCfBdCrEmfcYicD
+216,Young Thug,MS. Jackson,0.886,0.537,8,-9.467,0,0.0935,0.00572,0.0,0.0899,0.41,132.03,260918,spotify:track:5NIbLzj2YVT7QGT8fPHxmA
+217,Young Thug,Beat It,0.729,0.49,5,-8.342,0,0.0509,0.0983,0.0,0.102,0.458,101.895,263948,spotify:track:1QQasRIKWL2IaVqVL6q3Xl
+218,Young Thug,Magnificent,0.787,0.478,10,-10.486,0,0.375,0.032,5.54e-05,0.655,0.333,137.947,203083,spotify:track:0dEUayTz9vtOX45ItCv21B
+219,Young Thug,Pass Me The Lighter,0.843,0.47,1,-9.776,1,0.27,0.0907,0.0,0.107,0.295,123.024,218443,spotify:track:4bSW4Z6avCXU2EZ8TAwqyS
+220,Young Thug,Till I Die,0.591,0.48,0,-10.114,1,0.295,0.0131,0.0,0.412,0.34,85.022,242972,spotify:track:4SUvbvPqvl4ng9MxlLXdpT
+221,Future,No Cap,0.805,0.529,1,-6.795,1,0.0838,0.000949,1.32e-06,0.351,0.292,147.012,143981,spotify:track:3Ny6CJIcK6yxNhXhA2ZjLZ
+222,Future,Three,0.725,0.686,5,-5.778,0,0.227,0.00727,0.0,0.0879,0.263,169.113,159400,spotify:track:6fFOUx5r6NJKDF5GceRfhf
+223,Future,All da Smoke,0.892,0.589,0,-6.957,1,0.309,0.0284,8.24e-05,0.15,0.127,147.061,204707,spotify:track:6ZSqxCHduCcfMiP7Y9TUqV
+224,Future,200,0.853,0.636,1,-6.764,1,0.243,0.0103,0.0,0.256,0.531,145.968,147042,spotify:track:1XACSopDG47bEcqB2iDByx
+225,Future,Cruise Ship,0.795,0.729,0,-6.264,1,0.182,0.00962,0.0,0.125,0.203,150.074,166280,spotify:track:0FOz3oYvnhICjHgl5H4AW1
+226,Future,Patek Water,0.875,0.552,6,-5.831,0,0.179,0.313,0.0,0.11,0.323,153.031,189240,spotify:track:3c4TcZLhD6RaP1nnQvD23x
+227,Future,Feed Me Dope,0.842,0.679,8,-6.627,0,0.279,0.0102,0.0,0.157,0.6,75.019,166698,spotify:track:0VccDYa0axk2qzXRlYQhr2
+228,Future,Drip on Me,0.84,0.624,8,-7.667,0,0.229,0.00311,3.92e-05,0.12,0.534,135.915,199747,spotify:track:5oyQQqzO0vXy9xuzGIYd9n
+229,Future,Real Love,0.746,0.572,8,-6.282,1,0.0842,0.0215,0.000347,0.204,0.267,145.978,241893,spotify:track:3utsIRsrbgiNXQYN9qSt5F
+230,Future,4 da Gang,0.675,0.483,2,-7.59,1,0.366,0.0633,0.0,0.168,0.147,146.571,187600,spotify:track:3eXC125WHofy0HEfSHweic
+231,Future,Killed Before,0.683,0.674,7,-4.721,1,0.327,0.277,0.0,0.0927,0.319,158.138,220360,spotify:track:6L436wfljuRVK2LFIYIblH
+232,Future,Mink Flow,0.486,0.545,6,-6.222,0,0.249,0.00333,0.0,0.115,0.253,158.225,179027,spotify:track:5peKIduL9YybcbTdCk93ap
+233,Future,Group Home,0.557,0.593,5,-7.654,0,0.268,0.0593,8.05e-06,0.106,0.459,142.959,242081,spotify:track:1nHmwa1N9gihVuRv2GYKoa
+234,Young Thug,Family Dont Matter (feat. Millie Go Lightly),0.63,0.436,7,-10.218,1,0.433,0.172,0.0,0.429,0.691,145.066,295267,spotify:track:445YTBOjx9kYThBepGA9au
+235,Young Thug,Tomorrow Til Infinity (feat. Gunna),0.855,0.516,0,-6.972,1,0.0524,0.0261,2.74e-05,0.302,0.283,135.97,228307,spotify:track:6Zm6fxOVPzyArjrNPx9LRe
+236,Young Thug,She Wanna Party (feat. Millie Go Lightly),0.578,0.5,10,-6.656,0,0.271,0.125,0.0,0.235,0.388,104.095,250587,spotify:track:3WL6yCfh0zw2MxVSWSe0G1
+237,Young Thug,Daddys Birthday,0.845,0.37,4,-7.333,0,0.519,0.203,0.0,0.104,0.269,152.949,208920,spotify:track:347hgqCHnL4GfgVX5hZfNv
+238,Young Thug,Do U Love Me,0.8,0.607,8,-8.399,1,0.251,0.0134,0.0,0.257,0.713,101.926,209573,spotify:track:0whCNZKidgBNhuPW41vYpg
+239,Young Thug,Relationship (feat. Future),0.842,0.597,2,-6.336,1,0.0627,0.00252,0.0,0.124,0.298,145.992,215307,spotify:track:25oOaleife6E2MIKmFkPvg
+240,Young Thug,You Said (feat. Quavo),0.577,0.557,8,-6.894,1,0.114,0.147,0.0,0.21,0.177,119.977,402067,spotify:track:1gUakci7HwPcImtp0i79N3
+241,Young Thug,On Fire,0.773,0.422,2,-7.242,1,0.324,0.26,0.0,0.279,0.529,154.106,239800,spotify:track:07YlTLGFG2LsTkqGFwY5jC
+242,Young Thug,Get High (feat. Snoop Dogg & Lil Durk),0.707,0.496,11,-8.035,0,0.213,0.0328,0.0,0.148,0.211,145.924,293933,spotify:track:1X4PsdScsMExfuNFPLNcTT
+243,Young Thug,Feel It,0.721,0.513,7,-7.882,0,0.121,0.0959,0.0,0.341,0.31,124.02,236587,spotify:track:2BAmF6QyK5IYEOp1TFmt0u
+244,Young Thug,Me or Us,0.682,0.251,5,-12.824,1,0.244,0.664,1.06e-05,0.144,0.419,80.041,157880,spotify:track:0JaN65P0DapRjboDEv2g08
+245,Young Thug,Oh Yeah,0.555,0.418,11,-10.346,0,0.403,0.0905,0.0,0.177,0.248,106.285,229387,spotify:track:7FjxdLxJkOV5cHOrttx5Ft
+246,Young Thug,For Yall (feat. Jacquees),0.69,0.511,9,-8.405,1,0.152,0.0277,0.0,0.112,0.589,139.996,219707,spotify:track:5e5LyZy3k83xTQKnerVrif
+247,Young Thug,Take Care,0.718,0.675,0,-6.75,1,0.263,0.117,0.0,0.307,0.637,133.999,217373,spotify:track:1mB1N8BVAN3BeyOes2uj1E
+248,Young Thug,Wyclef Jean,0.863,0.576,5,-5.687,0,0.239,0.124,0.0,0.143,0.832,132.054,236293,spotify:track:55OdqrG8WLmsYyY1jijD9b
+249,Young Thug,Floyd Mayweather (feat. Travis Scott Gucci Mane and Gunna),0.891,0.491,8,-8.874,1,0.118,0.339,0.0,0.296,0.806,133.984,358507,spotify:track:5ALc7rbru6QOLGodVSDocc
+250,Young Thug,Swizz Beatz,0.831,0.532,4,-7.047,0,0.338,0.245,0.000131,0.314,0.517,130.0,196467,spotify:track:539wfGOsGcRmT1IBVUfiJV
+251,Young Thug,Future Swag,0.674,0.664,9,-6.021,1,0.0906,0.0107,0.0,0.275,0.451,154.039,165867,spotify:track:1ckxFDBKrcepE6pDmayXzP
+252,Young Thug,RiRi,0.677,0.489,8,-7.385,1,0.277,0.0144,0.0,0.318,0.457,139.848,244320,spotify:track:20rZiHL20MTJjfhLQZQsm4
+253,Young Thug,Guwop (feat. Quavo Offset and Young Scooter),0.883,0.616,0,-7.218,0,0.274,0.014,1.48e-06,0.0967,0.482,141.969,315973,spotify:track:1BSA5I386L2IAmFQURYjIz
+254,Young Thug,Harambe,0.816,0.488,8,-6.223,1,0.38,0.0479,0.0,0.156,0.218,132.125,190147,spotify:track:1yKLa9X63tBfvLojNOw9y8
+255,Young Thug,Webbie (feat. Duke),0.696,0.589,1,-7.033,0,0.295,0.123,0.0,0.134,0.273,78.52,235893,spotify:track:6pRkwu4Pt9d7Ki6g4ppOYj
+256,Young Thug,Kanye West (feat. Wyclef Jean),0.851,0.614,5,-6.668,0,0.1,0.046,0.0,0.0716,0.429,107.971,342720,spotify:track:5StUs128KSibE16fxntBSL
+257,Young Thug,Pick Up The Phone (feat. Quavo),0.706,0.716,7,-4.263,0,0.0768,0.115,0.0,0.316,0.459,136.904,252263,spotify:track:5NAMZI9lVhxNa6AZp3iQVH
+258,Young Thug,With Them,0.926,0.517,9,-6.794,1,0.184,0.00218,0.0,0.091,0.284,132.07,197747,spotify:track:0tISnxqgVmxqhVghsTi2Rr
+259,Young Thug,Memo,0.823,0.564,1,-6.617,1,0.116,0.151,0.0,0.122,0.348,131.988,195413,spotify:track:7tk5tOCj84jine8kKJkPYs
+260,Young Thug,Drippin,0.947,0.602,0,-7.275,1,0.0744,0.0515,0.0,0.0921,0.347,103.961,186453,spotify:track:0f85bMoarvHbdIcfhDjSjN
+261,Young Thug,Slime Shit (feat. Yak Gotti Duke & Peewee Roscoe),0.896,0.423,8,-7.987,1,0.44,0.02,0.0,0.182,0.282,132.928,278040,spotify:track:7iynYKl5NWdjM1FXTzs6hw
+262,Young Thug,Digits,0.769,0.632,10,-4.228,0,0.0537,0.0325,0.0,0.116,0.294,131.932,176387,spotify:track:4cg1yakyRSIOjxKM2I7J1q
+263,Young Thug,Worth It,0.604,0.435,4,-9.191,0,0.135,0.0326,0.0,0.091,0.112,136.827,186026,spotify:track:5QCr1xFufKJOTkpcR9ih24
+264,Young Thug,Tattoos,0.822,0.685,1,-5.872,0,0.0837,0.0039,0.0,0.242,0.306,102.033,241813,spotify:track:1vbUiccx25u2ncTe4RujS2
+265,Young Thug,Problem,0.872,0.639,8,-5.658,0,0.103,0.125,0.0,0.144,0.469,111.968,241453,spotify:track:1o5jdqnWybW9Mau4GDWPMa
+266,Migos,SRS,0.758,0.527,0,-8.864,0,0.155,0.151,0.0,0.675,0.29,107.924,271599,spotify:track:3XsOaaflhc5UEtdVU3a2nt
+267,Migos,Woa,0.929,0.752,1,-6.112,1,0.317,0.0519,0.0,0.101,0.433,128.994,240353,spotify:track:1vd0HT63Uj5LIqeaeG5B7Q
+268,Migos,Take Kare (feat. Lil Wayne),0.806,0.442,10,-10.75,0,0.17,0.0374,0.0,0.0788,0.283,90.006,266390,spotify:track:35LCTvk8UVBaBunzVJWMA5
+269,Migos,Chances,0.86,0.591,11,-7.228,0,0.315,0.0171,0.0,0.0672,0.12,130.055,269610,spotify:track:1CRMzLfur56HzyZYGnQ6Pv
+270,Migos,Hate It Or Love,0.734,0.61,1,-7.9,1,0.061,0.101,0.0,0.137,0.218,129.995,281037,spotify:track:0oto8THmJTMKUuC7TDBugp
+271,Migos,No Way,0.714,0.681,4,-5.026,0,0.231,0.189,0.0,0.112,0.303,124.031,271484,spotify:track:7sJd82Bq8y7oHl2rbzmijx
+272,Migos,Flying Coach,0.889,0.582,2,-4.99,1,0.402,0.0691,0.0,0.0798,0.319,129.975,282788,spotify:track:2m8ZvcNvIPTlCT4Qw1xAsA
+273,Migos,Plan B,0.928,0.673,8,-6.12,1,0.368,0.387,0.0,0.0988,0.63,129.965,237394,spotify:track:0nnazcJ4kKCLAVXS2BnDx2
+274,Migos,Stunna,0.883,0.901,7,-3.872,1,0.171,0.0654,0.0,0.61,0.411,110.029,248999,spotify:track:43bzQqXjp9XsgSUqGqMtCX
+275,Migos,You Wanna See,0.871,0.621,2,-5.331,1,0.207,0.212,0.0,0.0796,0.311,128.161,316806,spotify:track:5Qh3GZWduOqS7ddKk0jz5a
+276,Young Thug,F Cancer (Boosie) (feat. Quavo),0.802,0.718,10,-6.921,0,0.0992,0.0229,0.0,0.338,0.658,160.031,249640,spotify:track:1qPK58q90l8KNoWyXsLI2Y
+277,Young Thug,My Boys (feat. Ralo Trouble and Lil Durk),0.773,0.561,9,-8.268,1,0.213,0.254,0.0,0.132,0.419,147.946,304076,spotify:track:3DTJYRV3jTQ4TUgqDuPkez
+278,Young Thug,For My People (feat. Duke),0.679,0.599,10,-5.7,0,0.161,0.176,0.0,0.0708,0.464,118.997,240134,spotify:track:7vAtyxWiSO24Q6tVj7LOGo
+279,Young Thug,King TROUP,0.641,0.564,4,-8.006,0,0.406,0.397,0.0,0.179,0.523,86.636,225669,spotify:track:6uJmfWyFMLGCjvvRF5mpG9
+280,Young Thug,Ridin (feat. Lil Durk),0.861,0.604,9,-9.071,1,0.206,0.133,0.0,0.142,0.39,107.99,248889,spotify:track:0sMZD2KXYkkR0xDZiBoI7g
+281,Young Thug,Hercules,0.742,0.559,5,-5.876,1,0.141,0.0324,0.0,0.0987,0.431,146.923,280831,spotify:track:5MD2QLnFM2ChpKAh33z0zr
+282,Young Thug,Special (feat. Offset and Solo Lucci),0.91,0.499,8,-5.985,1,0.157,0.0813,0.0,0.0988,0.316,140.012,263592,spotify:track:1DAl49mec3YC7a3Yc86Gz2
+283,Young Thug,Bread Winners (feat. Young Butta),0.782,0.658,1,-6.566,1,0.238,0.146,0.0,0.107,0.307,140.074,226325,spotify:track:3dM1Tf9uBxpsStGmuWkbtg
+284,Young Thug,Family (feat. Dora and Dolly),0.872,0.372,2,-8.745,0,0.234,0.0998,0.0,0.135,0.219,137.907,243478,spotify:track:13unqv6c3ZC5Qz4J0yT2kF
+285,Young Thug,Yeah Yeah (Feat. OG Boo Dirty & Heavy),0.704,0.576,4,-10.413,0,0.416,0.0352,0.0,0.33,0.345,69.026,268434,spotify:track:5Cb5BJxFQxrcECJoP17L6p
+286,Young Thug,2 Cups Stuffed,0.909,0.554,5,-8.592,1,0.375,0.0144,0.0,0.0765,0.628,139.029,193567,spotify:track:52UcrN2ODBurPrrDdNHNye
+287,Young Thug,Ball (Feat. OG Boo Dirty),0.714,0.715,9,-9.147,0,0.392,0.0124,0.0,0.348,0.838,137.825,146887,spotify:track:1DkTfJiDRvCx17lB1xKknU
+288,Young Thug,Im Fo Real,0.568,0.6,0,-7.796,1,0.108,0.282,0.0,0.456,0.674,132.992,186828,spotify:track:6RtW7JxeaISnKyZENEKeRR
+289,Young Thug,Jungle (Feat. Gucci Mane),0.613,0.638,10,-9.73,0,0.417,0.0994,0.0,0.171,0.502,137.044,147174,spotify:track:1tw2jU2CrKuPZLmPhoCzXB
+290,Young Thug,Scared Of You,0.686,0.54,1,-9.692,1,0.182,0.00693,0.0,0.808,0.144,141.057,177084,spotify:track:6JiFGhswa9fOuOsLnZmzR9
+291,Young Thug,Murder,0.644,0.54,9,-11.121,0,0.122,0.00346,0.0,0.815,0.393,66.488,187690,spotify:track:6DCfsH0viNbYENUnlroDwU
+292,Young Thug,Nigeria (Feat. Gucci Mane & PeeWee Longway),0.473,0.447,8,-11.056,1,0.193,0.0233,0.0,0.298,0.291,140.173,210547,spotify:track:76F4IMJaVHKRPabwguAm1N
+293,Young Thug,Dead For Real (Feat. PeeWee Longway),0.818,0.558,0,-10.406,1,0.287,0.0384,0.0,0.186,0.559,101.02,120320,spotify:track:6jT6KhLZPgqi8IaMuCkDV6
+294,Young Thug,Condo Music (Feat. Wicced),0.427,0.726,3,-7.035,0,0.231,0.103,0.0,0.342,0.549,87.153,191216,spotify:track:4l1RVWoJ2CgxshcvYyeFVK
+295,Young Thug,Patna Dem (Feat. PeeWee Longway),0.602,0.619,11,-9.77,0,0.359,0.0325,0.0,0.462,0.347,139.651,97411,spotify:track:5ULUuxJa8nAjliBAWGLemY
+296,Young Thug,Picacho (Feat. Maceo),0.734,0.733,0,-7.13,1,0.419,0.0468,0.0,0.186,0.698,136.146,253936,spotify:track:2mg5bvuB45nFfUhLZmFXOv
+297,Young Thug,Triger Finger,0.779,0.576,5,-11.296,0,0.278,0.0191,0.0,0.394,0.71,136.976,187141,spotify:track:5gDBqSBvtwm3LEuowj3z6I
+298,Young Thug,Picture Baby,0.829,0.663,6,-8.69,0,0.471,0.141,0.0,0.353,0.711,129.881,192078,spotify:track:5GTElYEO21nMzo7q1edAi2
+299,Young Thug,Shooting Star (Feat. Gucci Mane),0.896,0.718,4,-7.941,0,0.115,0.138,0.0,0.431,0.805,120.015,260493,spotify:track:2NI4OG0fXkisAsJpGusdxD
+300,Young Thug,Miss U,0.65,0.712,1,-5.168,0,0.21,0.0316,0.0,0.109,0.698,135.078,189153,spotify:track:0tV8IBJMBm9waWAcdpfGu5
+301,Young Thug,Tabernacle,0.614,0.527,5,-8.828,0,0.292,0.0923,0.0,0.314,0.696,144.836,176744,spotify:track:3WS4RDhlwFkQEoXYby3smw
+302,Young Thug,Why Order,0.932,0.501,8,-6.941,1,0.446,0.0117,0.0,0.191,0.173,120.908,198060,spotify:track:5oDORBSD98wBxngRCGruYb
+303,Young Thug,THUG (Feat. Runts),0.747,0.615,0,-6.777,1,0.268,0.0533,0.0,0.313,0.212,137.945,254903,spotify:track:422G7vvffY4FZj782OhDSn
+304,Young Thug,F*ck With it (Feat. Young Scooter),0.528,0.842,8,-5.365,1,0.412,0.00777,0.0,0.28,0.693,127.937,209868,spotify:track:1ae02Y3z8Fe6eebHuh6vmQ
+305,Gucci Mane,Hot Boyz Intro,0.862,0.346,2,-14.392,1,0.484,0.354,0.0,0.136,0.76,134.963,159687,spotify:track:7epDqsKSGgKZTwaf7qGQzS
+306,Gucci Mane,Bricks,0.938,0.679,7,-5.795,1,0.141,0.114,0.0,0.263,0.565,117.995,298841,spotify:track:1IzIxqA6m6IL0OR0Yn7pS7
+307,Gucci Mane,Need,0.747,0.306,2,-17.749,1,0.155,0.177,0.0,0.078,0.225,139.987,199367,spotify:track:2Kps5r5y05e6cFdCYTTDQK
+308,Gucci Mane,Ride Around The City,0.59,0.688,7,-6.67,1,0.31,0.00341,0.0,0.356,0.506,139.922,192026,spotify:track:4GBegvEF0LXH2yUenWKaN4
+309,Gucci Mane,Stoner 2 Times,0.805,0.558,7,-7.327,1,0.105,0.00448,0.0,0.216,0.578,120.02,236042,spotify:track:0FU4LLiYC8MIm6pu1HNXZg
+310,Gucci Mane,OMG Bro,0.828,0.433,1,-18.043,0,0.144,0.00775,0.0,0.068,0.843,139.949,205740,spotify:track:7LjAIveereYEKUuMwfO7u2
+311,Gucci Mane,Yay (Feat. Takeoff),0.779,0.458,8,-17.324,1,0.205,0.325,0.0,0.0715,0.81,135.001,241816,spotify:track:53DzeaoXAb9WAyxssiHNtR
+312,Gucci Mane,Dont Look At Me,0.674,0.564,7,-5.839,1,0.0909,0.188,0.0,0.336,0.263,143.124,188003,spotify:track:5c5H1rZgNrrsYR3gr9DzMt
+313,Gucci Mane,Out My Biz,0.756,0.295,10,-21.139,0,0.0589,0.0389,0.0,0.0757,0.735,130.015,206811,spotify:track:1q9UXl5qSAfZQQsHH0YJ1M
+314,Gucci Mane,Took By A Bitch (Feat. PeeWee Longway),0.75,0.0665,1,-24.417,1,0.655,0.00441,0.0,0.112,0.075,140.084,197329,spotify:track:6FoaYiB8mZOwTKIXOxPsEO
+315,Gucci Mane,Siblings,0.738,0.332,0,-18.782,1,0.0495,0.107,0.0,0.0998,0.687,140.051,205740,spotify:track:26bq7xUuRBEULDw6Xkvtbi
+316,Gucci Mane,OMG,0.854,0.179,1,-22.145,1,0.296,0.0122,0.0,0.146,0.572,97.527,134034,spotify:track:40nGhZaIFCPYaOwIA59vps
+317,Gucci Mane,Lef Some,0.742,0.31,1,-21.216,1,0.0879,0.0389,0.0,0.4,0.613,133.899,175595,spotify:track:2Ef31Ae4IEMQeAOg7I4cKX
+318,Gucci Mane,Clap Your Hands,0.575,0.782,7,-3.585,1,0.108,0.143,0.0,0.465,0.545,140.167,208693,spotify:track:231gS5jShL1Y9nqsP5a2Do
+319,Gucci Mane,Donald Trump,0.768,0.323,6,-11.958,1,0.62,0.34,0.000676,0.12,0.178,134.766,131640,spotify:track:7x4nhun49AiW0VyjcCUALf
+320,Gucci Mane,Geeked Up,0.782,0.62,1,-4.522,1,0.11,0.0716,0.0,0.282,0.402,140.014,191733,spotify:track:76HlkVyXMTLbsWwGGYQsn7
+321,Gucci Mane,Hurt Nobody,0.722,0.652,9,-5.155,1,0.103,0.282,0.0,0.185,0.495,132.039,236373,spotify:track:5aQE5gouTtVqTHG1V1Zi3O
+322,Gucci Mane,Tell Nobody,0.657,0.775,11,-3.823,1,0.035,0.401,0.0,0.111,0.698,129.986,210453,spotify:track:6SZMUEo3W1KcbM5X9vgIUF
+323,Gucci Mane,Panaramic Roof,0.758,0.642,8,-4.711,1,0.181,0.0881,0.0,0.207,0.328,149.918,217600,spotify:track:6DmV6jZ8anCNnhik0weQNU
+324,Gucci Mane,Riding Around,0.77,0.502,7,-5.149,1,0.0469,0.336,0.0,0.139,0.348,96.003,239987,spotify:track:6nzebCXvfqhazHDYSMe4Vm
+325,Gucci Mane,See You Later,0.539,0.874,5,-3.288,0,0.384,0.249,0.0,0.82,0.58,129.805,239973,spotify:track:4ef7mEPmSrj7DEPvfdRXLj
+326,Gucci Mane,Texter,0.769,0.685,10,-8.897,0,0.107,0.0267,0.0,0.0865,0.844,139.995,190480,spotify:track:3ppXslSHW68BbaA9vI3hY3
+327,Gucci Mane,Umm Hmm,0.755,0.706,1,-5.872,0,0.102,0.854,1.65e-06,0.113,0.505,94.978,182120,spotify:track:1fKLhPSEhlEi1OXrHup8X9
+328,Gucci Mane,Wait Your Turn,0.799,0.751,10,-4.436,1,0.0595,0.145,0.0,0.0831,0.64,134.95,206640,spotify:track:5VLAbLjeCvZqCNAMrfkBVK
+329,Gucci Mane,You The Best,0.586,0.744,4,-4.808,0,0.155,0.257,0.0,0.244,0.38,74.925,170413,spotify:track:4RmXvYbkLF0TekIJkmdNF9
+330,Young Thug,Constantly Hating (feat. Birdman),0.712,0.449,4,-9.765,1,0.631,0.275,0.0,0.201,0.555,170.075,267440,spotify:track:1UIUkZtlgyrjPcH2agNomU
+331,Young Thug,With That (feat. Duke),0.751,0.597,9,-6.59,0,0.125,0.0659,0.0,0.0881,0.159,123.997,202533,spotify:track:6o4nVtywF4F75RkOcDxrtd
+332,Young Thug,Cant Tell (feat. T.I. and Boosie BadAzz),0.93,0.486,1,-6.361,1,0.367,0.0303,0.0,0.0716,0.334,111.062,368213,spotify:track:4QfVMnOYuE5Ah7E4g1p6Bx
+333,Young Thug,Check,0.667,0.581,0,-5.164,0,0.323,0.0428,0.0,0.183,0.368,110.953,230693,spotify:track:1jk9c0gZI0wbn5GvAj7PBV
+334,Young Thug,Never Had It (feat. Young Dolph),0.78,0.606,1,-6.16,0,0.14,0.0775,0.0,0.0737,0.205,105.989,254520,spotify:track:0xkWhXID4JvV36qh0ptR87
+335,Young Thug,Dream (feat. Yak Gotti),0.854,0.468,1,-6.506,1,0.384,0.0448,0.0,0.165,0.223,140.096,181400,spotify:track:1SkR9g1l9NipSZhZPJsbOT
+336,Young Thug,Dome (feat. Duke),0.843,0.564,5,-6.004,0,0.242,0.0383,0.0,0.39,0.565,112.938,231293,spotify:track:5kBmoWvzfQgpd1pVGwFwab
+337,Young Thug,Halftime,0.71,0.486,11,-6.221,0,0.251,0.0641,0.0,0.112,0.17,133.284,226733,spotify:track:4BP0An7SXctTY4kF41JxIQ
+338,Young Thug,Amazing (feat. Jacquees),0.595,0.503,10,-8.691,0,0.609,0.461,0.0,0.0997,0.78,95.068,218080,spotify:track:5mzmXn6NdCU9Gm6Q0rcBWT
+339,Young Thug,Knocked Off (feat. Birdman),0.866,0.543,8,-5.671,1,0.407,0.127,0.0,0.34,0.578,139.902,196587,spotify:track:4c3krD3VpZ0FvJgpE57wVD
+340,Young Thug,OD,0.51,0.533,7,-6.194,1,0.359,0.194,0.0,0.117,0.262,88.154,285653,spotify:track:7fheaybAcABeiuYU6VgDrQ
+341,Young Thug,Numbers,0.656,0.606,1,-5.398,1,0.283,0.134,0.0,0.0921,0.614,140.01,207693,spotify:track:1kWVgfctc2JUKCqlsZGWbU
+342,Young Thug,Just Might Be,0.406,0.722,6,-7.865,0,0.393,0.14,0.0,0.393,0.198,85.003,232947,spotify:track:1aUO38r5tnMbnd6PGMfWxs
+343,Rich Homie Quan,Up Up And Away,0.764,0.492,7,-9.022,0,0.28,0.6,0.0,0.302,0.546,97.481,240802,spotify:track:2VBerpaTuZ0WXBREhe5eYw
+344,Rich Homie Quan,Time,0.491,0.56,5,-8.433,0,0.276,0.0705,0.0,0.31,0.41,130.566,203763,spotify:track:4Iaa7dAzMNj5NP3DH8BGVY
+345,Rich Homie Quan,Water,0.575,0.497,10,-9.437,1,0.338,0.382,0.0,0.273,0.141,123.979,243974,spotify:track:44DAwT8MUnjMJAtwzpYQqF
+346,Rich Homie Quan,Never Made,0.432,0.471,8,-10.903,0,0.33,0.092,0.0,0.257,0.692,83.992,288190,spotify:track:2cZIqekC4ZbFrNz4srIcUp
+347,Rich Homie Quan,Should I,0.71,0.488,9,-7.791,1,0.13,0.415,0.0,0.214,0.241,133.924,173360,spotify:track:4ZUIjAA6cHHJsL0se7D6ao
+348,Rich Homie Quan,Favorite,0.756,0.719,6,-7.384,0,0.339,0.189,0.0,0.159,0.874,119.84,188644,spotify:track:5p0X4gV18aQNNqybvqbokf
+349,Rich Homie Quan,Aye,0.649,0.458,0,-9.25,1,0.0373,0.00972,0.0,0.709,0.497,123.053,237900,spotify:track:0SCI38AbloD4iazmdjCOmm
+350,Rich Homie Quan,Mister,0.711,0.795,11,-4.71,1,0.0444,0.0443,3.54e-05,0.183,0.187,133.059,218849,spotify:track:3VoOoJulzDLJkmlHBCIhio
+351,Rich Homie Quan,Brain Nichols,0.583,0.527,1,-9.794,1,0.459,0.0327,0.0,0.17,0.45,133.511,231831,spotify:track:4e1arse1p1b6LmXMiZFLxg
+352,Rich Homie Quan,Roll It,0.73,0.411,8,-8.76,1,0.519,0.0642,0.0,0.0796,0.54,139.509,185445,spotify:track:4C8kwkXjO12RyAN348Yc7t
+353,Rich Homie Quan,Warrior,0.813,0.772,11,-7.953,1,0.0348,0.0295,0.00472,0.176,0.219,124.016,208448,spotify:track:3SPusOXC9GLoc9esm5lmXn
+354,Rich Homie Quan,Tell Me Why (feat. Drake),0.675,0.66,1,-7.485,1,0.115,0.164,0.0,0.0825,0.874,141.827,168624,spotify:track:0SlZOY1DUQyyXcUE0QYgiK
+355,Young Thug,2 Cups Stuffed,0.911,0.557,5,-8.566,1,0.372,0.0135,0.0,0.0769,0.626,139.017,193567,spotify:track:5Ebq3wTcPJKGMlMsLynUMv
+356,Young Thug,Im fo Real,0.58,0.598,0,-7.792,1,0.106,0.289,0.0,0.448,0.686,133.054,186828,spotify:track:03W7s9xgn0RYlNVqEkjGkG
+357,Young Thug,Scared of You,0.685,0.542,1,-9.688,1,0.178,0.00664,0.0,0.798,0.149,141.054,177084,spotify:track:7n29lOPTJUX5ucjOlGXMkx
+358,Young Thug,Think out Loud,0.318,0.798,0,-10.66,0,0.104,0.281,0.000277,0.756,0.604,144.527,199001,spotify:track:4oXe1PgKA8p8SAH0MlWtij
+359,Young Thug,Natural,0.41,0.744,5,-10.964,0,0.402,0.00492,0.0,0.315,0.523,129.589,243853,spotify:track:0fNqjVjx4lrbfawXXWsDPW
+360,Young Thug,Trigger Finger,0.773,0.577,5,-11.299,0,0.285,0.0195,0.0,0.394,0.713,136.983,187141,spotify:track:4XXZUgs1CzGqAzTUGBWHf0
+361,Young Thug,Murder,0.643,0.537,9,-11.125,0,0.124,0.00363,0.0,0.815,0.388,66.489,187690,spotify:track:7CDyPkW38IfFK6IYH01aqd
+362,Young Thug,Shooting Star,0.896,0.717,4,-7.94,0,0.119,0.13,0.0,0.43,0.796,120.016,260493,spotify:track:3TpwH3UE0DW1kKOjA0lFLO
+363,Young Thug,I Want Her,0.529,0.671,0,-12.981,1,0.217,0.0213,0.0,0.311,0.688,95.38,174550,spotify:track:4m7TAF8EuHxpTQxM8MrNwS
+364,Young Thug,My Time,0.548,0.663,10,-12.551,1,0.0569,0.000495,0.0,0.114,0.718,86.576,294557,spotify:track:2aDb2g63FrmOXscNwHnkPW
+365,Young Thug,Why Order,0.937,0.504,8,-6.938,1,0.339,0.0118,0.0,0.191,0.177,120.897,198060,spotify:track:6exI0iszFbTd3lACfv8sP6
+366,Young Thug,Time Of Ya Life,0.399,0.713,2,-11.258,1,0.378,0.00253,0.0,0.188,0.553,142.94,254642,spotify:track:3jvCX5GQVc3fPhxjGufYEW
+367,Young Thug,Angry Sex,0.765,0.764,11,-11.525,1,0.129,0.0968,0.0,0.894,0.927,148.242,192758,spotify:track:5LJFrbclvlVIYCpCMsOEbS
+368,Young Thug,International Connection,0.629,0.302,7,-16.1,0,0.945,0.0593,0.0,0.0883,0.81,77.112,16144,spotify:track:0vNgKtIVZRVTn7hVgsIOeq
+369,NAV,To My Grave,0.809,0.698,4,-4.166,0,0.0518,0.0243,0.0,0.238,0.14,146.11,160000,spotify:track:7LIehfeWKhtflc6PD0GVBt
+370,NAV,Im Ready,0.825,0.744,1,-5.788,1,0.444,0.191,0.0,0.112,0.651,156.032,174627,spotify:track:1GAjW7y6vVNLOeCoqPiMH6
+371,NAV,Taking Chances,0.849,0.595,0,-4.958,0,0.112,0.283,0.0,0.108,0.645,143.944,186680,spotify:track:1CxoV7DNPsiGCg6tciKRag
+372,NAV,Tap (feat. Meek Mill),0.9,0.63,9,-7.123,1,0.276,0.102,0.0,0.0907,0.486,85.033,148280,spotify:track:4A6ygACwDaDxXAlZsa4wrz
+373,NAV,Tension,0.802,0.517,0,-7.538,1,0.288,0.412,4.72e-05,0.133,0.347,142.02,185760,spotify:track:2RLSE5uHDm3t1FDMurGjzs
+374,NAV,Price On My Head (feat. The Weeknd),0.763,0.643,6,-5.428,0,0.133,0.382,8.9e-06,0.313,0.281,75.0,217773,spotify:track:1CjwXqAh8yiT42gzy0WSHN
+375,NAV,Ralo,0.863,0.539,6,-6.598,0,0.311,0.287,0.0,0.11,0.489,145.958,184627,spotify:track:2eZuipCT7Nqm9gzN2dA3vN
+376,NAV,Tussin (feat. Young Thug),0.66,0.508,0,-6.073,0,0.434,0.468,0.0,0.101,0.307,162.996,179520,spotify:track:3UesykdKL32xAB7dC90m53
+377,NAV,Snap,0.775,0.434,1,-7.452,0,0.549,0.268,0.0,0.0963,0.171,172.047,169613,spotify:track:05514M24sMp9dVFdPFyHJ7
+378,NAV,Hold Your Breath (feat. Gunna),0.83,0.69,0,-5.272,0,0.316,0.107,0.0,0.123,0.467,146.053,170960,spotify:track:0xJWJZlqXovPu7CAsODkVK
+379,NAV,Why You Crying Mama,0.749,0.444,0,-7.559,1,0.386,0.444,0.0,0.106,0.427,76.403,253160,spotify:track:1vfxOZMS36E2wsyx9Ufun3
+380,NAV,Time Piece (feat. Lil Durk),0.854,0.367,8,-7.644,1,0.472,0.199,0.0,0.111,0.189,140.101,206507,spotify:track:79wxpAVs23fURwDU8wzaQL
+381,NAV,Dior Runners,0.854,0.785,4,-5.363,0,0.417,0.158,0.0,0.143,0.453,162.078,166000,spotify:track:3zKwoiQHoXmpVHo8DDcoPo
+382,NAV,Vicodin,0.755,0.549,0,-6.005,1,0.391,0.249,0.0,0.185,0.325,161.021,131213,spotify:track:1MQLsiKK9DSmzhqdnAQJgm
+383,NAV,Stuck With Me,0.743,0.57,1,-6.176,1,0.111,0.628,3.27e-06,0.138,0.29,85.046,170947,spotify:track:4djd0yGpJ1cb7CMOE12FTV
+384,NAV,Know Me,0.92,0.549,1,-6.089,1,0.128,0.0364,0.0,0.105,0.153,142.067,155493,spotify:track:1K1kPFqnWj8l8jnPwhV40o
+385,NAV,Amazing (feat. Future),0.836,0.585,2,-6.255,1,0.503,0.0663,0.0,0.163,0.472,160.036,138000,spotify:track:66oDldtGfPoZnYpFEt7wLD
+386,NAV,Habits,0.758,0.513,9,-6.989,1,0.294,0.215,0.0,0.142,0.416,159.969,204360,spotify:track:0yGO26Zqp3f9QbX0a87W4u
+387,NAV,Rack In My Sleep (feat. 88GLAM),0.834,0.646,10,-5.081,1,0.157,0.187,0.0,0.0894,0.189,145.059,160680,spotify:track:2AValZSFvHWQUqO7d9PQMy
+388,NAV,Go To Hell,0.779,0.61,10,-5.423,0,0.296,0.453,0.0,0.34,0.32,171.961,127320,spotify:track:0FHWKtNZrqNOxQQC7HxXQw
+389,NAV,8 To A 4,0.853,0.568,1,-6.566,1,0.337,0.165,0.0,0.122,0.544,80.996,165560,spotify:track:4OOAGfhrMW6Tc9qtbUVlk8
+390,NAV,Never Know,0.78,0.462,5,-7.252,0,0.0779,0.206,0.00119,0.164,0.417,126.995,241960,spotify:track:6zQnrkQMP3EUeZkNmIhAhN
+391,NAV,OK (feat. Lil Durk),0.798,0.639,5,-6.135,0,0.131,0.049,0.0,0.111,0.395,80.033,169040,spotify:track:0YtlZwnjGuwYu0bcPS018g
+392,NAV,Athlete,0.838,0.667,1,-6.348,1,0.548,0.211,0.0,0.307,0.306,152.981,182027,spotify:track:7pILbqJpn53dqo5z5GhFiU
+393,NAV,Reckless Intro,0.819,0.669,5,-5.202,0,0.275,0.266,7.66e-06,0.111,0.474,80.046,142547,spotify:track:7GNlNNDvM7c9fsv3zsmVQX
+394,NAV,Never Change,0.85,0.566,7,-8.18,0,0.091,0.0681,1.73e-06,0.093,0.174,126.985,181267,spotify:track:0Cgig1rlaJEJ6bkHVV5v9o
+395,NAV,Hold Your Hand,0.766,0.614,5,-5.431,0,0.0484,0.19,0.0,0.157,0.299,134.028,234853,spotify:track:2gNIhXbE588DkW7Za7ruax
+396,NAV,Faith (feat. Quavo),0.527,0.61,1,-6.903,0,0.107,0.758,0.0,0.0882,0.549,157.1,199973,spotify:track:3NelcGZ46JmV9LqOD1pnxA
+397,NAV,Champion (feat. Travis Scott),0.642,0.782,5,-3.395,0,0.0477,0.381,0.0,0.108,0.396,162.005,195053,spotify:track:6nO3tr47nr2P7f3hXb8JIo
+398,NAV,Glow Up,0.834,0.633,5,-7.669,0,0.124,0.105,0.0,0.125,0.257,120.056,160667,spotify:track:09L4qpS3qvz725z6K8yW0M
+399,NAV,Just Happened,0.81,0.52,7,-7.3,1,0.0793,0.0575,0.0,0.0879,0.142,130.088,201067,spotify:track:4gjt18BzZ6d5efeKRB9PXt
+400,NAV,Wanted You (feat. Lil Uzi Vert),0.797,0.731,9,-4.443,0,0.0479,0.229,0.0,0.224,0.623,146.93,228387,spotify:track:1Faq8G2y56A8fRv7HsLq25
+401,NAV,With Me,0.809,0.776,1,-4.746,0,0.224,0.205,0.0,0.113,0.697,155.037,174320,spotify:track:3jlakYV0x21kzZvR1HUE4X
+402,NAV,EAT (feat. Gunna),0.925,0.736,1,-6.263,1,0.132,0.0353,0.000156,0.0966,0.493,147.013,202213,spotify:track:4JjerUTEnRGocSRT74VsaH
+403,NAV,Freshman List,0.748,0.587,11,-7.643,1,0.292,0.125,0.0,0.11,0.388,172.024,186800,spotify:track:4LeJfeJ9u53QLp997SRhim
+404,NAV,What I Need / Daheala Outro,0.578,0.486,0,-7.321,1,0.252,0.103,0.0,0.0766,0.29,153.1,300987,spotify:track:6UG2khzlXwwiqfqX36c2SR
+405,NAV,Perfect Timing (Intro),0.783,0.478,8,-10.01,1,0.176,0.0603,0.00456,0.206,0.245,77.019,177027,spotify:track:772EarvgHOkWj0MGl8RQ2o
+406,NAV,I Dont Care,0.779,0.442,8,-9.441,1,0.291,0.377,0.0,0.158,0.306,121.041,266467,spotify:track:0H28IPsAL4xe4m1mfdaV3p
+407,NAV,Hit,0.869,0.676,6,-9.186,0,0.186,0.21,0.0423,0.119,0.605,140.03,169760,spotify:track:0QFfD26Kj96yINsUiXxqgs
+408,NAV,A$AP Ferg,0.584,0.403,7,-8.952,1,0.427,0.163,0.0,0.0744,0.233,140.006,257533,spotify:track:52qOA4PpcVtrsGCG3vxB17
+409,NAV,Held Me Down,0.839,0.398,3,-8.963,0,0.089,0.518,0.0,0.0997,0.229,120.005,228080,spotify:track:7wLjgQOzlY0Sla1Jbbyrl2
+410,NAV,Minute,0.557,0.544,5,-8.341,0,0.308,0.0927,0.000143,0.542,0.267,108.578,265373,spotify:track:5pwMsQGMxuFbbDfAaZA2cZ
+411,NAV,Did You See NAV?,0.888,0.466,1,-8.359,1,0.0726,0.0131,0.000185,0.111,0.154,130.441,217200,spotify:track:2jFeSaZHqLWiIrAnuA7cqM
+412,NAV,Bring It Back,0.756,0.506,0,-8.519,0,0.22,0.143,0.000315,0.135,0.334,145.108,188947,spotify:track:61AhUDsYIBM63m8DdMQETw
+413,NAV,Both Sides,0.745,0.476,1,-8.9,1,0.33,0.324,0.000871,0.229,0.231,140.062,208880,spotify:track:5XW6haae41THmC2KbFDYHT
+414,NAV,Call Me,0.668,0.411,9,-8.643,0,0.152,0.424,0.00425,0.122,0.148,170.07,215053,spotify:track:1zmaUY2qiezxHokiiivCVr
+415,NAV,You Know,0.855,0.339,10,-11.409,1,0.299,0.0602,0.0,0.0962,0.106,120.994,209360,spotify:track:4EWhkuAfQBIPpyMqI97dUB
+416,NAV,Rich,0.737,0.548,1,-7.848,1,0.0589,0.0723,1.49e-05,0.103,0.138,151.968,227387,spotify:track:2iA1EnlFFxVGFu7aNKaK59
+417,NAV,Need Some,0.778,0.33,7,-10.829,1,0.323,0.13,3.71e-05,0.17,0.294,148.143,182440,spotify:track:1rfohP8tqgqvvFJhx3kdmf
+418,NAV,I Am,0.657,0.455,5,-9.448,0,0.0613,0.087,0.000118,0.0907,0.13,142.097,252640,spotify:track:4NAENWphvgHnT3LJyA2Lun
+419,NAV,NAVUZIMETRO#PT2,0.858,0.551,5,-9.81,0,0.429,0.201,0.0,0.159,0.38,140.086,260653,spotify:track:6WoowXNC6uWKxvxYgJ2VXJ
+420,NAV,Myself,0.507,0.392,5,-7.437,0,0.307,0.648,1.54e-06,0.115,0.0892,80.009,226053,spotify:track:6avN888Of924sZhrtfhpf4
+421,NAV,NAV,0.638,0.582,0,-6.272,0,0.0942,0.0191,0.0,0.124,0.272,170.177,182867,spotify:track:1q4cwMuZsSrFMQiggrc4B5
+422,NAV,My Mind,0.738,0.685,8,-5.865,0,0.077,0.027,0.0,0.178,0.594,142.959,161107,spotify:track:6WSClg6H4Mh14ywXyXpBtJ
+423,NAV,Good For It,0.779,0.751,9,-6.854,0,0.392,0.00608,0.0,0.358,0.442,160.082,159000,spotify:track:3MtyuSeML1BqSKPEgA13BS
+424,NAV,Lonely,0.563,0.447,10,-7.253,0,0.11,0.0823,0.0,0.172,0.236,181.272,215293,spotify:track:1FU5NyEBw5TpIPAbSrCQdv
+425,NAV,Up,0.682,0.472,8,-6.958,0,0.0883,0.0394,0.0,0.1,0.327,154.1,199520,spotify:track:1rNMVwOqb8GIqPtLQaoYzx
+426,NAV,Interlude,0.476,0.362,4,-11.818,0,0.0622,0.111,0.0695,0.123,0.0595,105.1,116573,spotify:track:2n4l7IfOoljxknYsmr98Nb
+427,NAV,Sleep,0.766,0.581,10,-6.972,0,0.234,0.182,2.08e-06,0.0979,0.458,160.031,186000,spotify:track:7qByNHziMJtrbUFoGQdcH5
+428,NAV,Mariah,0.638,0.424,0,-10.122,0,0.0489,0.352,0.0,0.102,0.486,72.447,162187,spotify:track:7csJNWiO4CG1LaocQVF99Q
+429,NAV,Some Way,0.758,0.728,0,-6.23,1,0.29,0.0814,0.0,0.0842,0.312,154.95,179773,spotify:track:6lzHL3Edyr4qI7VgD0MJz3
+430,NAV,TTD,0.466,0.343,9,-10.344,0,0.0851,0.455,2.64e-05,0.204,0.189,97.602,242587,spotify:track:0wAWb9cV9lQhKLgAFdsH8T
+431,JACKBOYS,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,0.559,0.491,2,-6.406,0,0.0346,0.0567,0.0,0.0992,0.114,153.131,244874,spotify:track:7h0d2h0fUmzbs7zeFigJPn
+432,JACKBOYS,JACKBOYS,0.413,0.13,0,-25.166,0,0.0336,0.9,0.82,0.111,0.0676,123.342,46837,spotify:track:62zKJrpbLxz6InR3tGyr7o
+433,JACKBOYS,GANG GANG,0.859,0.6,7,-4.63,0,0.301,0.071,0.0,0.353,0.568,123.017,244761,spotify:track:6uJONCdr2rC65BNmCnTBWK
+434,JACKBOYS,HAD ENOUGH (feat. Quavo & Offset),0.75,0.789,2,-4.578,1,0.108,0.253,0.0,0.129,0.673,147.957,157133,spotify:track:7LGWmZaoS7jZJ5tEi9EcDi
+435,JACKBOYS,OUT WEST (feat. Young Thug),0.802,0.591,8,-4.895,1,0.225,0.0104,0.0,0.196,0.309,139.864,157712,spotify:track:6gi6y1xwmVszDWkUqab1qw
+436,JACKBOYS,WHAT TO DO? (feat. Don Toliver),0.643,0.594,9,-5.191,0,0.0312,0.0695,1.46e-05,0.115,0.195,118.037,250142,spotify:track:4AO1XhrgJczQ9bNVxdfKQe
+437,JACKBOYS,GATTI,0.594,0.676,2,-5.808,1,0.344,0.135,0.0,0.163,0.472,143.477,181145,spotify:track:40mjsnRjCpycdUw3xhS20g
+438,A Boogie Wit da Hoodie,Thug Love,0.54,0.643,5,-4.707,0,0.288,0.428,0.0,0.174,0.328,178.125,181744,spotify:track:4MzhmCOgPB7xb87f1CXjlA
+439,A Boogie Wit da Hoodie,Cinderella Story,0.639,0.571,4,-7.332,1,0.511,0.272,0.0,0.144,0.569,88.047,185455,spotify:track:18AIesWCXvIbXu8RqQw1E1
+440,A Boogie Wit da Hoodie,Me and My Guitar,0.644,0.587,7,-6.736,0,0.353,0.473,0.0,0.0759,0.68,173.972,161765,spotify:track:6cZH4rX1KTt1aJ3Ql6Ynja
+441,A Boogie Wit da Hoodie,Might Not Give Up (feat. Young Thug),0.687,0.592,2,-6.378,1,0.224,0.203,0.0,0.279,0.246,178.83,225266,spotify:track:4l2rsMfr20dj6nf6i6F3Y8
+442,A Boogie Wit da Hoodie,Numbers (feat. Roddy Ricch Gunna and London On Da Track),0.819,0.654,11,-6.665,0,0.136,0.517,0.0,0.0996,0.455,133.503,188563,spotify:track:733c1CWmIGymoQXdp7Us88
+443,A Boogie Wit da Hoodie,Stain (feat. DaBaby),0.816,0.754,8,-3.911,1,0.389,0.0117,0.0,0.129,0.604,159.073,175128,spotify:track:0dIz1I7IwX5ardG47AHxCZ
+444,A Boogie Wit da Hoodie,Hit Em Up (feat. Trap Manny),0.506,0.591,0,-8.428,1,0.386,0.258,0.0,0.154,0.752,169.752,204420,spotify:track:7ExiKb3YCTGpaLPtFKzYUk
+445,A Boogie Wit da Hoodie,DTB 4 Life,0.566,0.676,1,-6.05,1,0.128,0.00905,0.0,0.0878,0.123,84.683,175107,spotify:track:4CXSzoyTD2MmedFArsSIUp
+446,A Boogie Wit da Hoodie,Calm Down (Bittersweet) [feat. Summer Walker],0.579,0.612,9,-4.685,1,0.111,0.221,0.0,0.108,0.425,133.366,183703,spotify:track:1U5pPF8f6APVCoc6t2KfIB
+447,A Boogie Wit da Hoodie,Another Day Gone (feat. Khalid),0.643,0.608,5,-8.446,0,0.152,0.0984,0.000101,0.247,0.564,156.974,188026,spotify:track:63dg6LdBGxa0QA93M2snLA
+448,A Boogie Wit da Hoodie,Good Girls Gone Bad,0.678,0.674,11,-6.175,1,0.0687,0.0849,0.0,0.0915,0.417,119.195,105675,spotify:track:76MqbWX5us3UmGJImualTj
+449,A Boogie Wit da Hoodie,Blood On My Denim,0.842,0.52,7,-6.51,1,0.122,0.386,0.0,0.115,0.482,109.008,196619,spotify:track:0LHWHUcUYhFAUkCt2q4Gad
+450,A Boogie Wit da Hoodie,R.O.D.,0.596,0.547,9,-6.207,1,0.335,0.567,0.0,0.167,0.611,90.059,214153,spotify:track:5AmzfSxCIOPxPmppoHrr12
+451,A Boogie Wit da Hoodie,Big Shit,0.753,0.53,5,-4.196,1,0.16,0.353,1.36e-05,0.112,0.385,138.977,152156,spotify:track:0dADaRjZfWrrXPAPr7qe75
+452,A Boogie Wit da Hoodie,Right Back,0.632,0.697,3,-4.659,1,0.438,0.128,0.0,0.156,0.526,83.505,162279,spotify:track:4NY4FeAJyTd0fkkMI0POPn
+453,A Boogie Wit da Hoodie,Luv Is Art (feat. Lil Uzi Vert),0.489,0.554,2,-8.437,1,0.183,0.212,1.9e-06,0.088,0.331,86.584,161056,spotify:track:0LVaWrTztFOuN7g7gcyLs8
+454,A Boogie Wit da Hoodie,King Of My City,0.48,0.679,4,-6.776,0,0.264,0.452,0.0,0.152,0.29,81.186,148676,spotify:track:3o0nkjyy6eZL5lZcEpvJec
+455,A Boogie Wit da Hoodie,Mood Swings,0.941,0.676,4,-5.54,0,0.0936,0.211,4.64e-06,0.0986,0.93,120.073,156960,spotify:track:0VZe8C7xgAIQC0E0qEVIEh
+456,A Boogie Wit da Hoodie,Reply (feat. Lil Uzi Vert),0.512,0.623,9,-6.553,0,0.0808,0.0187,0.0,0.13,0.219,112.15,183589,spotify:track:1njRzdfGNUY2RZU0lVO787
+457,A Boogie Wit da Hoodie,Streets Dont Love You,0.549,0.456,1,-10.5,1,0.55,0.65,0.0,0.101,0.297,117.284,201623,spotify:track:5IhS1ig4KRhO4TXH3uspCa
+458,A Boogie Wit da Hoodie,Voices in My Head,0.754,0.663,6,-6.311,0,0.427,0.0555,0.0,0.101,0.207,90.195,142301,spotify:track:0Veyvc3n9AcLSoK3r1dA12
+459,A Boogie Wit da Hoodie,Beasty,0.86,0.418,7,-9.061,0,0.158,0.292,0.0,0.106,0.374,126.023,152829,spotify:track:77JzXZonNumWsuXKy9vr3U
+460,A Boogie Wit da Hoodie,I Did It,0.718,0.454,8,-9.012,1,0.127,0.153,4.6e-05,0.116,0.196,89.483,215305,spotify:track:18yllZD0TdF7ykcREib8Z1
+461,A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),0.581,0.662,9,-5.239,1,0.303,0.0153,0.0,0.111,0.434,93.023,189487,spotify:track:1wJRveJZLSb1rjhnUHQiv6
+462,A Boogie Wit da Hoodie,Startender (feat. Offset and Tyga),0.736,0.622,6,-4.653,0,0.133,0.0235,0.0,0.151,0.506,191.971,192779,spotify:track:0jAfdqv18goRTUxm3ilRjb
+463,A Boogie Wit da Hoodie,Demons and Angels (feat. Juice WRLD),0.81,0.55,2,-7.46,0,0.17,0.0114,5.69e-06,0.107,0.183,76.503,214593,spotify:track:3L19besdNQzd342qL78xqm
+464,A Boogie Wit da Hoodie,Love Drugs and Sex,0.762,0.553,5,-7.207,0,0.112,0.55,0.0,0.115,0.773,119.973,157863,spotify:track:1Gno5IBUHh6vUKp4nxu2Yd
+465,A Boogie Wit da Hoodie,Skeezers,0.792,0.484,7,-7.801,0,0.155,0.558,0.0,0.134,0.353,140.019,198054,spotify:track:2A4vCndSkZ3jd5nfh3a8gc
+466,A Boogie Wit da Hoodie,Savage,0.78,0.402,5,-9.255,0,0.149,0.188,0.0,0.0597,0.483,160.046,169046,spotify:track:1srm5YnZiu7Ksnd2UTTmmk
+467,A Boogie Wit da Hoodie,Come Closer (feat. Queen Naija),0.741,0.556,7,-6.647,0,0.0947,0.22,0.0,0.0981,0.616,140.056,156512,spotify:track:3UhRsQVrELOATEiY7E9X2T
+468,A Boogie Wit da Hoodie,Look Back at It,0.791,0.587,3,-5.075,0,0.0413,0.407,0.0,0.148,0.536,96.057,179449,spotify:track:3Ol2xnObFdKV9pmRD2t9x8
+469,A Boogie Wit da Hoodie,Just Like Me (feat. Young Thug),0.774,0.623,5,-7.871,1,0.245,0.156,0.0,0.0955,0.393,128.661,220888,spotify:track:0uH6JssU7mWkTT9mqeqEvL
+470,A Boogie Wit da Hoodie,Bosses and Workers (feat. Don Q and Trap Manny),0.842,0.605,1,-6.293,0,0.0559,0.358,0.0,0.0843,0.591,130.027,207223,spotify:track:02CQH5capUYovYSiSiwKgX
+471,A Boogie Wit da Hoodie,Need a Best Friend (feat. Lil Quee and Quando Rondo),0.696,0.52,0,-6.361,1,0.294,0.06,0.0,0.118,0.359,165.105,204329,spotify:track:0sSl9LFCzQAunHx9T1Un3O
+472,A Boogie Wit da Hoodie,The Reaper,0.761,0.61,6,-7.039,1,0.094,0.379,0.0,0.123,0.479,141.955,176533,spotify:track:3TwzcgoO6mbgX3E7Bn1RAy
+473,A Boogie Wit da Hoodie,Uptown / Bustdown (feat. PnB Rock and Lil Durk),0.503,0.751,6,-5.785,0,0.35,0.215,0.0,0.0551,0.324,90.04,177763,spotify:track:3mUk1wiSBpiuK4oSSyDmTQ
+474,A Boogie Wit da Hoodie,Billie Jean,0.83,0.536,4,-6.324,0,0.152,0.0919,0.0,0.102,0.375,139.961,138014,spotify:track:0OAyZn9pGuuL2FJih1PM58
+475,A Boogie Wit da Hoodie,4 Min Convo (Favorite Song),0.705,0.65,7,-5.654,0,0.212,0.359,0.0,0.169,0.658,91.053,257274,spotify:track:5h66wqaGklsSa8eSxTwcJT
+476,A Boogie Wit da Hoodie,Odee,0.854,0.48,9,-7.388,0,0.293,0.208,0.0,0.127,0.293,86.049,160868,spotify:track:7MuhbSNErlmQAGRzhnnIjT
+477,A Boogie Wit da Hoodie,Pull Up (feat. NAV),0.828,0.37,7,-7.446,0,0.264,0.487,0.0,0.119,0.557,149.95,193575,spotify:track:76vviJBqmRdMMb9u9npgfj
+478,A Boogie Wit da Hoodie,Way Too Fly (feat. DaVido),0.602,0.771,10,-4.799,0,0.261,0.125,0.0,0.254,0.864,216.115,172708,spotify:track:1NAR2XeNMp6SegDBp0NlRy
+479,A Boogie Wit da Hoodie,MIA (feat. Kap G),0.687,0.613,5,-6.344,0,0.339,0.00742,0.0,0.088,0.424,78.867,176203,spotify:track:1rmbyt81JBf4QO9dLzaIUS
+480,A Boogie Wit da Hoodie,Nonchalant (feat. Alkaline),0.717,0.605,2,-4.541,0,0.28,0.707,0.0,0.112,0.522,91.354,188752,spotify:track:4YPUpGTxrGvnkwUCljlBpO
+481,A Boogie Wit da Hoodie,Pretending (feat. Jessie Reyez),0.649,0.558,4,-5.675,0,0.425,0.206,1.05e-06,0.156,0.15,75.087,177339,spotify:track:0brzJEyCEVzjAQsCgCqxqb
+482,A Boogie Wit da Hoodie,Best Friend (feat. Tory Lanez),0.839,0.525,9,-7.446,0,0.35,0.211,0.000153,0.0701,0.541,149.863,260497,spotify:track:7GNKDhpJtw7G7nodKz4NOH
+483,A Boogie Wit da Hoodie,Pull Up (feat. NAV),0.828,0.37,7,-7.441,0,0.26,0.484,0.0,0.119,0.549,149.964,193575,spotify:track:0WnV4YotgHecDIzfihlcjn
+484,A Boogie Wit da Hoodie,Déjà Vu (feat. J Alvarez),0.82,0.687,5,-7.478,1,0.21,0.117,0.0,0.099,0.579,125.039,204958,spotify:track:3skZx53uk46gN49mhItqN3
+485,A Boogie Wit da Hoodie,Check (feat. RAYE) - International Artist Remix,0.418,0.746,3,-4.836,0,0.264,0.208,0.0,0.167,0.644,87.398,196596,spotify:track:6fyReXAVyOaywhFcnC1ibh
+486,A Boogie Wit da Hoodie,No Promises,0.759,0.646,5,-7.815,0,0.304,0.0164,0.0,0.137,0.242,145.005,197667,spotify:track:2BJpuAoDeQ1QuPvnryfAWK
+487,A Boogie Wit da Hoodie,Undefeated (feat. 21 Savage),0.717,0.753,7,-4.609,0,0.311,0.293,0.0,0.158,0.631,169.857,174012,spotify:track:2vaMWMPMgsWX4fwJiKmdWm
+488,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),0.839,0.81,5,-5.274,0,0.0568,0.501,0.0,0.117,0.814,129.014,209269,spotify:track:1f5cbQtDrykjarZVrShaDI
+489,A Boogie Wit da Hoodie,Say A,0.831,0.814,5,-5.18,1,0.474,0.391,0.0,0.109,0.846,161.041,214854,spotify:track:3AMnOVxEHUgVrythGgqPhI
+490,A Boogie Wit da Hoodie,No Comparison,0.783,0.517,9,-7.113,0,0.0739,0.45,0.0,0.132,0.156,117.973,244210,spotify:track:32aQ7oWlgpbEQyeZhvAmzC
+491,A Boogie Wit da Hoodie,Unhappy,0.722,0.716,11,-5.353,0,0.19,0.229,0.0,0.0793,0.667,161.015,179167,spotify:track:1iu3UTLNy436K7S8KVOdjS
+492,A Boogie Wit da Hoodie,Lets Start Over,0.612,0.348,7,-10.664,1,0.512,0.706,0.0,0.104,0.197,81.145,217031,spotify:track:0CveX6X9yK6jJKzIsAWroR
+493,A Boogie Wit da Hoodie,Get to You,0.664,0.537,0,-7.127,0,0.328,0.828,0.0,0.109,0.281,77.053,206712,spotify:track:5P1vipFCNi7SiOEVGqCc3s
+494,A Boogie Wit da Hoodie,Somebody (feat. Don Q),0.607,0.732,10,-6.779,0,0.336,0.0982,0.0,0.16,0.687,100.42,178939,spotify:track:7564ofEBD5mEiIkTclAW1J
+495,A Boogie Wit da Hoodie,Money Sprung (feat. Don Q),0.827,0.556,1,-6.237,1,0.319,0.373,4.23e-06,0.0719,0.34,130.097,195762,spotify:track:1QCWxlNQcpv6LO3gjd11AR
+496,A Boogie Wit da Hoodie,If I Gotta Go,0.664,0.542,9,-6.917,0,0.27,0.19,0.0,0.324,0.0852,140.865,203776,spotify:track:6KdA9pz4KS4avq0CUqblAV
+497,A Boogie Wit da Hoodie,Fucking & Kissing (feat. Chris Brown),0.648,0.53,9,-9.474,0,0.0734,0.0606,2.73e-06,0.0972,0.138,101.451,171136,spotify:track:2WfY2W1dGfBa6oAFQyGrI5
+498,A Boogie Wit da Hoodie,Bad Girl (feat. Trey Songz & Robin Thicke),0.723,0.589,2,-6.225,1,0.332,0.614,0.0,0.11,0.477,109.753,229413,spotify:track:3KIPN9BE8rh6ueIFYZHrIZ
+499,A Boogie Wit da Hoodie,Stalking You,0.537,0.534,1,-7.074,1,0.198,0.522,0.0,0.0828,0.709,90.376,221076,spotify:track:1DPz356PzDOvqvjCnQu7Lo
+500,A Boogie Wit da Hoodie,Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again),0.611,0.478,0,-5.839,1,0.107,0.035,0.0,0.107,0.138,172.076,258158,spotify:track:1AH60dMaEfNjzDoUIFwIQi
+501,A Boogie Wit da Hoodie,I Know Whats Real,0.81,0.465,9,-7.348,1,0.236,0.0145,0.0,0.126,0.127,136.001,227928,spotify:track:2LrOjkIlb6yzYYpfp5zBZC
+502,A Boogie Wit da Hoodie,Still Think About You,0.946,0.646,5,-6.604,1,0.21,0.219,0.0,0.0643,0.961,127.978,246988,spotify:track:2FTeQQ5Rg9tBpgpTF5mnhE
+503,A Boogie Wit da Hoodie,My Shit,0.812,0.621,5,-8.3,1,0.0515,0.244,0.0,0.099,0.847,77.998,128157,spotify:track:5uQOauh47VFt3B2kV9kRXw
+504,A Boogie Wit da Hoodie,D.T.B. (Interlude),0.588,0.851,10,-6.311,0,0.515,0.707,0.0,0.0968,0.452,84.472,287556,spotify:track:6dKHEOxmG7I6SraR7QFT6e
+505,A Boogie Wit da Hoodie,Friend Zone,0.532,0.608,10,-8.227,0,0.358,0.434,0.0,0.379,0.502,82.862,235776,spotify:track:3W0Fvft7V7MtSftTrC8MSQ
+506,A Boogie Wit da Hoodie,Jungle,0.538,0.52,7,-11.063,0,0.737,0.308,0.0,0.214,0.551,180.274,174192,spotify:track:5uZm7EFtP5aoTJvx5gv9Xf
+507,A Boogie Wit da Hoodie,1hunnit,0.7,0.481,3,-10.296,0,0.273,0.349,0.0,0.112,0.307,88.047,247954,spotify:track:54zRmxMXR0OE0qkMuIm9Ve
+508,A Boogie Wit da Hoodie,Money over Everything,0.646,0.795,1,-10.298,1,0.324,0.377,0.0,0.121,0.621,133.624,211139,spotify:track:3QEF7zOUrhLz65F7oUftU6
+509,A Boogie Wit da Hoodie,Trap House,0.779,0.714,6,-5.203,0,0.206,0.309,0.0,0.0765,0.398,135.974,186253,spotify:track:2pFwdWMfP4pu3FUhCCWkDT
+510,A Boogie Wit da Hoodie,Fall in Love,0.842,0.727,0,-6.241,1,0.0675,0.261,0.0,0.131,0.721,107.994,214857,spotify:track:1sXJ0TZDdYBIV4mlzQFi4j
+511,A Boogie Wit da Hoodie,Artist,0.768,0.823,1,-5.949,1,0.173,0.304,0.0,0.0751,0.857,158.125,231898,spotify:track:3oHLvTIiiJMQ1Hx9EPKYol
+512,Roddy Ricch,Intro,0.738,0.657,3,-8.737,0,0.109,0.164,0.0,0.163,0.716,159.01,135849,spotify:track:7AOtINPzQ4N4JVXk7ygZZz
+513,Roddy Ricch,The Box,0.896,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,196653,spotify:track:0nbXyq5TXYPCO7pr3N8S4I
+514,Roddy Ricch,Start Wit Me (feat. Gunna),0.886,0.479,4,-8.054,0,0.334,0.077,0.0,0.135,0.408,130.029,158692,spotify:track:7A20WnLkjtZU2d7hIB6Ziu
+515,Roddy Ricch,Perfect Time,0.577,0.734,8,-8.484,0,0.432,0.171,0.0,0.12,0.254,94.122,142710,spotify:track:6kiIVIbmwEw6JvIZc7UG0E
+516,Roddy Ricch,Moonwalkin (feat. Lil Durk),0.779,0.58,1,-7.594,0,0.284,0.0178,0.0,0.15,0.299,160.243,167851,spotify:track:33NoCir8q4WA4HNmyrD3fu
+517,Roddy Ricch,Big Stepper,0.753,0.597,8,-8.469,1,0.292,0.0477,0.0,0.197,0.616,76.997,175170,spotify:track:6x0QNM6f0C2JEjK0hFF8Ca
+518,Roddy Ricch,Gods Eyes,0.865,0.649,2,-8.05,0,0.349,0.145,0.0,0.104,0.22,113.245,135516,spotify:track:7KK4d7xfH6WjUuK1kPL8E2
+519,Roddy Ricch,Peta (feat. Meek Mill),0.778,0.573,10,-7.339,0,0.251,0.015,0.0,0.464,0.269,140.114,198849,spotify:track:4bl1HBZliBuYpFZjWgefE4
+520,Roddy Ricch,Boom Boom Room,0.828,0.543,2,-7.678,0,0.0865,0.452,0.0,0.15,0.231,125.989,167558,spotify:track:3aBL75wBGHJnskegE9jyhb
+521,Roddy Ricch,Elyses Skit,0.803,0.242,9,-16.513,0,0.925,0.965,0.0,0.628,0.956,53.297,23883,spotify:track:7y6xHDylozEzDBIHpcRBn4
+522,Roddy Ricch,High Fashion (feat. Mustard),0.831,0.499,11,-8.442,0,0.114,0.269,0.0,0.3,0.511,97.956,220487,spotify:track:07KXEDMj78x68D884wgVEm
+523,Roddy Ricch,Bacc Seat (feat. Ty Dolla $ign),0.783,0.524,1,-6.828,1,0.115,0.0404,0.0,0.087,0.153,144.989,172320,spotify:track:6In6SkveIw26thdYRhHTVX
+524,Roddy Ricch,Roll Dice,0.876,0.443,2,-8.995,1,0.178,0.279,0.0,0.105,0.496,153.029,170995,spotify:track:47FhiQXgLU47HDBYUDlHsd
+525,Roddy Ricch,Prayers To The Trap God,0.852,0.554,11,-8.254,1,0.389,0.0815,0.0,0.118,0.33,155.961,160059,spotify:track:0uIFsRx5caF13RunwkgLYt
+526,Roddy Ricch,Tip Toe (feat. A Boogie Wit da Hoodie),0.757,0.673,1,-8.513,1,0.141,0.095,0.0,0.338,0.574,92.958,185806,spotify:track:6ztvsy3C6hPjVg9j4x1XKJ
+527,Roddy Ricch,War Baby,0.663,0.706,5,-6.97,0,0.329,0.337,0.0,0.113,0.244,74.836,195668,spotify:track:78X9D3v7OarDPNdTPUV4CQ
+528,Roddy Ricch,Feed Tha Streets 2 (Intro),0.971,0.614,10,-5.844,0,0.113,0.0767,0.0,0.236,0.27,112.994,169887,spotify:track:3kgQ1kJC1WkuYVJuNJHPGA
+529,Roddy Ricch,Faces,0.674,0.637,5,-6.816,1,0.085,0.00671,0.0,0.0867,0.132,157.706,109750,spotify:track:3E1VoxJZ1JO8xhlxite5bn
+530,Roddy Ricch,Nascar,0.817,0.743,9,-4.793,1,0.166,0.0244,1.04e-06,0.102,0.374,172.962,179059,spotify:track:4F60iJFwx0G7x3SNjYWiZP
+531,Roddy Ricch,Die Young,0.688,0.656,4,-5.541,0,0.276,0.218,0.0,0.115,0.365,160.414,157657,spotify:track:3wLtYwtqvKK2ewelSVPeDK
+532,Roddy Ricch,Cream,0.894,0.625,8,-6.703,1,0.302,0.158,0.0,0.171,0.428,150.026,168160,spotify:track:2wz3OO7ndJQj15z3drwKkf
+533,Roddy Ricch,Cant Express,0.601,0.635,10,-5.534,0,0.364,0.0162,0.0,0.164,0.325,161.759,168552,spotify:track:1Nch1dTOPyrA2MCcQtlxb8
+534,Roddy Ricch,Area Codes,0.859,0.647,2,-6.902,1,0.336,0.00726,0.0,0.108,0.169,152.917,175701,spotify:track:3ULjPcUKiHNJJo4Znq8wjo
+535,Roddy Ricch,Brand New,0.893,0.545,5,-6.823,0,0.2,0.00825,0.0,0.0888,0.603,148.055,175308,spotify:track:7KgCjoyL1lNA2YZoEJhD8x
+536,Roddy Ricch,Down For Real,0.775,0.551,10,-9.87,0,0.201,0.00153,0.0,0.348,0.514,77.537,198229,spotify:track:5AL4chhuQBsENEAS1YtV38
+537,Roddy Ricch,Every Season,0.936,0.704,5,-5.47,0,0.457,0.0632,0.0,0.104,0.566,130.022,214376,spotify:track:1ttPzkTSpQUFcEGx8bjerL
+538,Roddy Ricch,Down Below,0.926,0.454,6,-9.932,1,0.0732,0.036,0.000422,0.0896,0.34,119.969,224002,spotify:track:4SWWe2OYC4mqf40Gc2RSdl
+539,Roddy Ricch,Day One (Outro),0.693,0.236,1,-10.393,1,0.337,0.192,0.0,0.185,0.102,143.898,161527,spotify:track:3uIdxn5bUjOLOKN4QELnhb
+540,Roddy Ricch,Fucc It Up,0.8,0.474,1,-9.304,1,0.238,0.0466,0.0,0.0933,0.348,141.989,202789,spotify:track:67Qg38TcnAQnW0ne6uJXlK
+541,Roddy Ricch,Position,0.738,0.557,11,-9.64,0,0.0633,0.0578,0.0,0.0787,0.391,154.956,198635,spotify:track:4dubTxOHUboV9TWAQHVuxV
+542,Roddy Ricch,Sak Passe,0.637,0.501,0,-10.634,1,0.475,0.0257,0.0,0.111,0.304,139.484,164624,spotify:track:3gqBMSwiu2QMjl3a63g7bV
+543,Roddy Ricch,Plottin (feat. GoGetta Kb),0.888,0.644,0,-8.32,1,0.155,0.0762,0.0,0.0646,0.32,100.021,172800,spotify:track:3Qh0nx7wjVPC4aB8m6i6QT
+544,Roddy Ricch,Ricch Vibes,0.511,0.387,1,-11.803,1,0.313,0.0293,0.0,0.0819,0.244,150.337,218958,spotify:track:09hCDXRYJcJhjgEBlppMnN
+545,Roddy Ricch,Money,0.796,0.571,8,-7.851,1,0.068,0.000853,3.9e-05,0.103,0.531,98.002,199944,spotify:track:7JLPydrZNIWzLPkIVwDBBn
+546,Roddy Ricch,Blue Streak,0.839,0.527,10,-8.961,0,0.232,0.0238,0.0,0.0609,0.357,139.97,181786,spotify:track:1D1TaCIWUtko86inlBE50K
+547,Roddy Ricch,Feed tha Streets,0.604,0.406,8,-11.838,1,0.673,0.00912,0.0,0.115,0.172,152.661,146664,spotify:track:2WS4s26VptzjPqOy1uB0Nu
+548,Roddy Ricch,Poppin,0.84,0.407,5,-11.574,0,0.0542,0.00243,3.79e-05,0.181,0.105,127.956,211944,spotify:track:6kLdkhi4nl3E0ddyKP4ytr
+549,Roddy Ricch,Chase tha Bag,0.829,0.574,6,-8.879,1,0.32,0.127,0.0,0.108,0.358,136.091,212793,spotify:track:0qVmQnartRlT7Pm3m2U6dJ
+550,Roddy Ricch,Quality,0.82,0.578,2,-5.541,1,0.171,0.00399,0.0,0.108,0.427,139.969,193392,spotify:track:0wSzbPtA2LqmXuuvnGpOmx
+551,Roddy Ricch,HoodRicch,0.681,0.585,4,-7.097,0,0.0836,0.258,0.0,0.138,0.173,91.006,179435,spotify:track:4IGXwrHeY8lrHUUGQCeKEs
+552,Roddy Ricch,Baby Boy (Struggle),0.725,0.4,7,-11.193,1,0.086,0.13,0.0,0.106,0.0784,129.924,250176,spotify:track:1vMBVUkktVSiO3QDMmsST3
+553,Roddy Ricch,Ricch Nigga (feat. P1),0.612,0.448,1,-13.445,0,0.193,0.0444,0.0,0.178,0.352,160.028,228075,spotify:track:6WHnwsOWqFwsOCyfMH39LQ
+554,Roddy Ricch,I Might,0.838,0.485,3,-6.292,0,0.182,0.0226,0.0,0.131,0.405,144.084,183384,spotify:track:7cUK2RdQaQvM2gUc4acF5T
+555,Roddy Ricch,Uber,0.81,0.385,8,-10.864,1,0.132,0.0372,0.0,0.094,0.175,135.008,170736,spotify:track:7a1QuofsdZkW6JLjnZS1aA
+556,Roddy Ricch,Free Game,0.73,0.562,2,-7.532,1,0.175,0.0136,0.0,0.651,0.156,144.066,173401,spotify:track:4lJA7RDazKo3cLwhIL99en
+557,Metro Boomin,10AM/Save The World (feat. Gucci Mane),0.719,0.501,8,-8.84,0,0.239,0.257,0.0,0.189,0.419,136.025,226320,spotify:track:00KjOnN3U40e3lXFUOue7h
+558,Metro Boomin,Overdue (with Travis Scott),0.638,0.4,11,-11.212,0,0.0425,0.733,0.000133,0.334,0.495,150.133,166093,spotify:track:6LyAwkJsHlW7RQ8S1cYAtM
+559,Metro Boomin,Dont Come Out The House (with 21 Savage),0.87,0.35,1,-6.082,1,0.277,0.00661,0.000483,0.108,0.175,74.963,168347,spotify:track:2Grb4G6t9VIqo6moKUloom
+560,Metro Boomin,Dreamcatcher (feat. Swae Lee & Travis Scott),0.675,0.23,1,-10.363,0,0.204,0.191,0.0,0.104,0.101,173.962,211920,spotify:track:22ykS8KWpd2r4zcRZ0XMK5
+561,Metro Boomin,Space Cadet (feat. Gunna),0.901,0.464,5,-9.789,0,0.0645,0.368,1.71e-05,0.238,0.638,109.004,203267,spotify:track:1fewSx2d5KIZ04wsooEBOz
+562,Metro Boomin,10 Freaky Girls (with 21 Savage),0.81,0.353,6,-9.931,0,0.31,0.588,0.0,0.102,0.0727,88.031,208293,spotify:track:0AluA5RNsa4Cx6XRhf2hWZ
+563,Metro Boomin,Up To Something (feat. Travis Scott & Young Thug),0.799,0.616,1,-8.809,1,0.157,0.319,0.0,0.134,0.667,114.014,184360,spotify:track:4RGacGFT2ztXhGgzeaYzIR
+564,Metro Boomin,Only 1 (Interlude) (with Travis Scott),0.317,0.239,1,-12.036,0,0.0331,0.744,0.0,0.169,0.391,78.251,80467,spotify:track:4cEqoGTqPRZy76Yl3ymj3V
+565,Metro Boomin,Lesbian (feat. Gunna & Young Thug),0.8,0.406,6,-8.892,0,0.268,0.636,0.0,0.109,0.274,120.999,206813,spotify:track:6vG3Zv9VEA6YbJPJ6ar5Y7
+566,Metro Boomin,Borrowed Love (feat. Swae Lee & WizKid),0.52,0.594,11,-8.81,0,0.462,0.44,0.0,0.185,0.393,129.216,230240,spotify:track:0NA5xAtDra50d0Lfs2uvoh
+567,Metro Boomin,Only You (feat. WizKid Offset & J Balvin),0.732,0.69,4,-7.745,0,0.174,0.538,9.37e-05,0.191,0.636,117.157,218627,spotify:track:3XFwOQU8wxXWl8Rxj3lrOi
+568,Metro Boomin,No More (feat. Travis Scott Kodak Black & 21 Savage),0.636,0.501,11,-7.26,0,0.329,0.413,0.0,0.339,0.196,82.309,265120,spotify:track:42k9e2hgl98IdgkXLg4pxs
+569,Metro Boomin,No Complaints (feat. Offset & Drake) (Bonus),0.914,0.572,2,-8.82,1,0.166,0.0709,0.00237,0.0599,0.203,123.963,265480,spotify:track:156LzfvMNKuXuiot4uzhGD
+570,Metro Boomin,10AM/Save The World - Instrumental,0.674,0.383,8,-12.617,0,0.0416,0.195,0.217,0.213,0.347,135.974,226333,spotify:track:64wSIBV7Dl5Hmnhfjfsv1U
+571,Metro Boomin,Overdue - Instrumental,0.694,0.268,11,-14.927,0,0.0703,0.34,0.934,0.122,0.515,74.999,166360,spotify:track:0Bas2DXoMaoIZeWu0j0lJU
+572,Metro Boomin,Dont Come Out The House - Instrumental,0.699,0.303,1,-7.382,1,0.456,0.00607,0.84,0.106,0.263,74.997,168080,spotify:track:4m7wjaJF9SdnoZpZVrD113
+573,Metro Boomin,Dreamcatcher - Instrumental,0.679,0.0763,6,-13.701,0,0.111,0.133,0.908,0.106,0.173,173.973,211920,spotify:track:1zBlx8uMzUxl61MG8nQ9UB
+574,Metro Boomin,Space Cadet - Instrumental,0.813,0.241,5,-13.923,1,0.0489,0.133,0.676,0.178,0.481,108.993,203267,spotify:track:1NeZpPnNi3DblecF4HIA9h
+575,Metro Boomin,10 Freaky Girls - Instrumental,0.671,0.106,6,-12.517,0,0.198,0.366,0.804,0.108,0.0696,176.002,208293,spotify:track:4TGw3fSZwRDlowy9JjiH6r
+576,Metro Boomin,Up To Something - Instrumental,0.802,0.483,1,-14.076,1,0.101,0.103,0.952,0.143,0.42,114.051,184360,spotify:track:3P4W8dTAemA0eMiHdpdRJi
+577,Metro Boomin,Only 1 (Interlude) - Instrumental,0.328,0.0593,4,-16.475,1,0.0418,0.942,0.96,0.111,0.0918,124.077,80467,spotify:track:6ruaTcDpv8chViJd7UjScW
+578,Metro Boomin,Lesbian - Instrumental,0.773,0.148,6,-15.485,0,0.0506,0.305,0.92,0.114,0.0773,120.978,206667,spotify:track:6k73HEwCr5IGj1uU28hrD0
+579,Metro Boomin,Borrowed Love - Instrumental,0.624,0.291,11,-13.459,0,0.0996,0.444,0.877,0.239,0.251,194.011,230240,spotify:track:2VCXaStTlLpvxJh3sqA0Hr
+580,Metro Boomin,Only You - Instrumental,0.757,0.524,4,-10.627,0,0.0579,0.397,0.892,0.105,0.597,116.991,218640,spotify:track:3aYzsatxLLI0a9GyXYHSsP
+581,Metro Boomin,No More - Instrumental,0.726,0.41,6,-8.262,0,0.111,0.0445,0.926,0.351,0.0404,82.998,245027,spotify:track:27XmhXaP0eM2wJOrJNJmEJ
+582,Metro Boomin,No Complaints (Instrumental) (Bonus),0.787,0.462,2,-13.681,1,0.0505,0.0176,0.89,0.0596,0.189,123.991,265467,spotify:track:4MkqHw5nlC0HUY58KgAHch
+583,Big Sean,Go Legend (& Metro Boomin),0.656,0.564,1,-8.925,0,0.0883,0.0167,1.39e-06,0.165,0.25,150.014,268947,spotify:track:3wAI7MIQtTgwcRmwchPZBc
+584,Big Sean,Big Bidness (& Metro Boomin),0.657,0.579,7,-10.463,0,0.275,0.123,0.0,0.102,0.146,84.985,273027,spotify:track:42XnD59SFcomCJu55EPhqJ
+585,Big Sean,Whos Stopping Me (& Metro Boomin),0.664,0.552,7,-10.479,1,0.306,0.425,0.0,0.0757,0.763,99.721,213600,spotify:track:7dHui7yOhsoj7HdWSuJTW7
+586,Big Sean,Pull Up N Wreck (& Metro Boomin),0.49,0.44,10,-7.76,1,0.353,0.00806,0.00103,0.186,0.091,173.095,227533,spotify:track:7DuvVy7JfFgXwWlVzyyPys
+587,Big Sean,So Good (& Metro Boomin),0.619,0.404,8,-8.333,0,0.441,0.0144,0.0,0.115,0.566,90.008,268720,spotify:track:0fWBFDRTIuk8ZgNdZqhCer
+588,Big Sean,Savage Time (& Metro Boomin),0.508,0.496,1,-9.514,1,0.348,0.184,0.0,0.333,0.237,147.007,335333,spotify:track:6Vur2D5ks3pdAZqqmLIeab
+589,Big Sean,Even The Odds (& Metro Boomin),0.562,0.476,4,-12.155,0,0.246,0.435,0.0,0.101,0.185,144.2,226720,spotify:track:5cHorcEr5z7GC0DjKxiWF1
+590,Big Sean,In Tune (& Metro Boomin),0.576,0.448,2,-11.382,1,0.319,0.336,8.41e-05,0.129,0.13,77.113,255587,spotify:track:5bq7cr4wjs9LaK7V7onc5F
+591,Big Sean,Reason (& Metro Boomin),0.677,0.623,2,-7.544,1,0.193,0.0287,8.88e-05,0.147,0.512,157.011,198720,spotify:track:4GvhvCrqxhpyMBUzwdDC0T
+592,Big Sean,No Hearts No Love (& Metro Boomin),0.384,0.705,1,-7.99,1,0.254,0.0271,0.00681,0.316,0.266,83.601,225920,spotify:track:6LotTSj4ATgXgke2ktLC1O
+593,21 Savage,Ghostface Killers,0.782,0.436,2,-7.033,1,0.155,0.331,1.3e-05,0.342,0.243,82.994,268933,spotify:track:5u6vkDnOyaf8LsteDAj2ub
+594,21 Savage,Rap Saved Me,0.845,0.399,1,-7.509,1,0.309,0.00525,0.74,0.102,0.148,143.049,257600,spotify:track:0tdCy39PgWN8LFWu34ORn3
+595,21 Savage,Ric Flair Drip (& Metro Boomin),0.88,0.428,9,-8.28,1,0.206,0.149,5.07e-05,0.114,0.333,100.007,172800,spotify:track:7sO5G9EABYOXQKNPNiE9NR
+596,21 Savage,My Choppa Hate Niggas,0.862,0.274,0,-5.818,0,0.484,0.0974,0.185,0.183,0.146,77.493,148640,spotify:track:2D2w9943rsnJOGCrI4aMQp
+597,21 Savage,Nightmare,0.739,0.405,0,-10.897,1,0.0852,0.442,0.211,0.158,0.127,157.09,147987,spotify:track:7LAhKXDNWwq3CmnFP3UIOP
+598,21 Savage,Mad Stalkers,0.9,0.365,10,-6.395,0,0.235,0.147,0.185,0.179,0.136,135.003,202667,spotify:track:6HR1z11h0ROUlWP4Kx8Z7G
+599,21 Savage,Disrespectful,0.799,0.381,1,-7.147,1,0.464,0.354,3.12e-06,0.135,0.0488,158.021,160320,spotify:track:3oxCefEI6Tc6Z6t20J4IvH
+600,21 Savage,Run Up the Racks,0.825,0.364,2,-7.635,0,0.121,0.141,0.311,0.195,0.177,153.028,189800,spotify:track:7vbjH8laThXpcBXeLNPm3M
+601,21 Savage,Still Serving,0.926,0.544,5,-6.827,1,0.0727,0.413,9.54e-05,0.112,0.656,115.951,231787,spotify:track:6m6Oy3F6GG0zRwH03rWmTv
+602,21 Savage,Darth Vader,0.724,0.284,7,-10.494,1,0.392,0.557,0.0175,0.121,0.144,150.98,228893,spotify:track:7vg47qMIEdLfNdTE3WLf0T
+603,21 Savage,No Advance,0.829,0.357,1,-11.543,1,0.28,0.104,8.35e-05,0.0799,0.0391,108.09,276467,spotify:track:2kE82JhBcoS7mimFO1SqqX
+604,21 Savage,No Heart,0.906,0.444,4,-8.692,0,0.384,0.136,6.44e-05,0.173,0.678,140.063,235040,spotify:track:4gmmRb6bZJffOOiww1JGTO
+605,21 Savage,X (feat. Future),0.835,0.413,1,-9.81,1,0.396,0.373,0.00133,0.101,0.111,149.004,258880,spotify:track:6fwdbPMwP1zVStm8FybmkO
+606,21 Savage,Savage Mode,0.782,0.359,0,-9.335,0,0.283,0.199,0.00105,0.106,0.0708,143.041,249587,spotify:track:52hRcWmjRNFuVJv3Qi7EeF
+607,21 Savage,Bad Guy,0.83,0.405,1,-8.484,1,0.411,0.0158,8.61e-06,0.241,0.188,147.07,169493,spotify:track:5TvdhNXoHbeGeWtjCYhFuy
+608,21 Savage,Real Nigga,0.87,0.225,0,-10.915,0,0.362,0.0915,0.69,0.197,0.163,155.97,185467,spotify:track:5V57eUQoTrMCZqonhzi8B9
+609,21 Savage,Mad High,0.772,0.737,10,-7.648,0,0.2,0.0189,9.39e-05,0.206,0.533,149.951,180707,spotify:track:6hEHxpZpvZwt1v4NoGwjKr
+610,21 Savage,Feel It,0.757,0.448,1,-9.461,0,0.115,0.111,0.000157,0.154,0.3,149.974,163387,spotify:track:4ujX9kC3UUp26MG0tPhUCz
+611,21 Savage,Ocean Drive,0.764,0.525,4,-7.486,0,0.181,0.126,0.000545,0.116,0.136,137.984,227880,spotify:track:1UyLFPOIG7E1OfamPQLOfD
+612,Metro Boomin,Future Speaks,0.66,0.334,5,-9.815,0,0.0444,0.377,0.0872,0.183,0.17,123.02,175620,spotify:track:78n79LrVMjVafygKDuif9O
+613,Metro Boomin,All I Need,0.842,0.534,0,-7.226,1,0.0619,0.000997,0.0,0.226,0.0948,119.948,215000,spotify:track:2aKOiRtrsX4gYpESKlVeOK
+614,Metro Boomin,Disloyal,0.712,0.665,1,-7.628,1,0.102,0.00318,1.57e-05,0.133,0.341,134.932,278413,spotify:track:7dHD6Pi6Y2GTThnPhJ9vhw
+615,Metro Boomin,You a Drug,0.701,0.654,6,-5.938,1,0.0876,0.057,0.0,0.257,0.63,134.896,191425,spotify:track:3TlFe57RW3iLtdmKitrXIW
+616,Metro Boomin,Metro Boomin Interlude,0.853,0.417,5,-9.253,0,0.0444,0.0032,0.611,0.138,0.25,126.988,122462,spotify:track:0NkVMeTGNFixQBr7SHmoBl
+617,Metro Boomin,Some More,0.777,0.654,2,-6.69,1,0.0406,0.00202,3.35e-05,0.162,0.417,135.002,220444,spotify:track:75uhtyAfQrdudILwlIbmC4
+618,Metro Boomin,Mink on the Floor,0.577,0.449,11,-10.9,1,0.134,0.145,8.37e-05,0.328,0.251,124.93,280645,spotify:track:6rbwPDvzg4WTrt3ptrA1Nr
+619,Metro Boomin,Mo,0.766,0.504,8,-5.938,1,0.0384,0.341,0.0,0.0694,0.287,137.031,202951,spotify:track:4qN7THm0tKoptJCH2wLTdB
+620,Metro Boomin,Fresh for the Love,0.794,0.644,2,-5.846,1,0.24,0.301,0.0,0.235,0.353,142.092,261093,spotify:track:4hztck65Rv6kfVocEo7b3w
+621,Metro Boomin,April Fools,0.787,0.528,11,-6.379,1,0.0465,0.155,0.0,0.0863,0.407,127.027,237141,spotify:track:14trLxHCfpIQCSLWYCX5cI
+622,Metro Boomin,Up and Down,0.772,0.25,1,-13.258,1,0.4,0.205,0.0,0.138,0.0627,135.083,163605,spotify:track:3aaofeNe7LLlfirHxyQ7pA
+623,Metro Boomin,No Sleep,0.722,0.577,11,-5.991,1,0.0787,0.0947,0.0,0.0775,0.365,137.974,121344,spotify:track:3VmLTAude0RtCx6thki41G
+624,Metro Boomin,Cant See Em,0.661,0.636,7,-8.011,0,0.0767,0.0324,6.48e-06,0.383,0.148,132.013,219318,spotify:track:7wvWRHdhw6k3kB2DY75HPL
+625,Metro Boomin,Serious,0.731,0.72,10,-7.32,0,0.295,0.0534,0.0,0.074,0.205,140.006,252918,spotify:track:78WriHaRnPZkPFGypr1oRl
+626,Metro Boomin,Fuck the Rap Game,0.876,0.375,6,-11.355,1,0.27,0.0246,0.0,0.254,0.341,133.997,203207,spotify:track:1E7q70bCw1FsGI9rr8RkcP
+627,Metro Boomin,Money Do,0.668,0.442,8,-10.573,1,0.302,0.279,0.0,0.0668,0.168,124.224,211723,spotify:track:0NbvNgZuJmZM1lWiJVzAsY
+628,Metro Boomin,Chanel Vintage,0.831,0.657,10,-5.266,0,0.26,0.0254,0.0,0.478,0.193,134.978,281601,spotify:track:4IPAxbmUAlrnjWBQfMEjPr
