@@ -367,7 +367,6 @@ def getArtistTracks(artists):
         if spotifyArtistName.casefold() != artist.casefold():
             artistUri = result['tracks']['items'][0]['artists'][1]['uri']
         
-        print()
         if multiple == False:
             print(artist, artistUri)
 
