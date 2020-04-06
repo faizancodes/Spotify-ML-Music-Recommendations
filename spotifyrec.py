@@ -39,7 +39,6 @@ client_secret = 'ENTER_CLIENT_SECRET_ID_HERE'
 
 scope = 'user-top-read'
 
-
 def clean(stng):
     
     output = ''
