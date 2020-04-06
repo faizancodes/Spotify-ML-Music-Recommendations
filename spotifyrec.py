@@ -34,6 +34,9 @@ recSongURIs = []
 spotifyAlbums = {}
 
 username = 'ENTER_SPOTIFY_USERNAME_HERE'
+client_id = 'ENTER_SPOTIFY_CLIENT_ID_HERE'
+client_secret = 'ENTER_SPOTIFY_CLIENT_SECRET_ID_HERE'
+
 scope = 'user-top-read'
 
 
@@ -99,9 +102,9 @@ def initialize():
     global sp
     global username
     global scope
-
-    client_id = 'ENTER_SPOTIFY_CLIENT_ID_HERE'
-    client_secret = 'ENTER_SPOTIFY_CLIENT_SECRET_ID_HERE'
+    global client_id
+    global client_secret
+   
 
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id,
                                                         client_secret=client_secret)
