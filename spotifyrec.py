@@ -33,7 +33,7 @@ topArtists = []
 recSongURIs = []
 spotifyAlbums = {}
 
-username = 'ENTER_USERNAME_HERE'
+username = 'ENTER_SPOTIFY_USERNAME_HERE'
 client_id = 'ENTER_CLIENT_ID_HERE'
 client_secret = 'ENTER_CLIENT_SECRET_ID_HERE'
 
