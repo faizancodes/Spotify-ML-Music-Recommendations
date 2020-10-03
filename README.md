@@ -5,3 +5,6 @@ In order to run this program, you will have to create a spotify developer accoun
 spotify username in the code.
 
 Create a Spotify Developer account here: https://developer.spotify.com/dashboard/login
+
+# How it Works 
+By entering your favorite artist and favorite songs from that artist, this program recommends you songs from that artist that are similar in terms of their audio features. 
