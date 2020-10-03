@@ -1,5 +1,5 @@
 # Spotify-ML-Music-Recommendations
-Music recommendations based on your favorite artists, songs, and listening history powered by machine learning
+Music recommendations based on your favorite artists, songs, and listening history powered by machine learning!
 
 In order to run this program, you will have to create a spotify developer account and enter your client credentials and
 spotify username in the code.
