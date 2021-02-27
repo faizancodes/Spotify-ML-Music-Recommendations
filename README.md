@@ -17,6 +17,20 @@ The program also goes through your Spotify listening history and finds other art
   
   - Navigate to the downloaded folder `cd Spotify-ML-Music-Recommendations`
   
+  - Create and activate a virtual environment
+    - Read more about VMs [here](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) if you are having issues 
+      
+      - **Windows:**
+        ```
+        py -3.6 -m venv env
+        env\Scripts\activate
+        ```
+      - **Mac & Linux**
+        ```
+        python3.6 -m venv env
+        source env/bin/activate
+        ```   
+  
   - Download all the dependencies `pip install -r requirements.txt` 
   
   - Create a Spotify Developer account [here](https://developer.spotify.com/dashboard/login)
