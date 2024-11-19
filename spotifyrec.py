@@ -63,7 +63,7 @@ def fixString(stng):
     output = ''
 
     for x in range(len(stng)):
-        if stng[x] != "'" and stng[x] != ',':
+
             output += stng[x]
 
     return output
