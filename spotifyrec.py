@@ -119,8 +119,6 @@ def initialize():
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 
-    redirect_uri = 'https://google.com'
-
 
     token = util.prompt_for_user_token(username=username, 
                                     scope=scope, 
