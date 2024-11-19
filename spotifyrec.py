@@ -76,7 +76,7 @@ def elbowMethod(x):
     for i in range(1, 11):
         
         kmeans = KMeans(n_clusters = i).fit(x)
-        kmeans.fit(x)
+
         error.append(kmeans.inertia_)
 
     '''    
